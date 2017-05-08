@@ -136,7 +136,7 @@ for category in categories:
 		print('\tGenerating HAR file for ' + site + '...')
 
 		# Get HAR file
-		proxy.new_har(website, options = {'captureHeaders': True})
+		proxy.new_har(website, options = {'captureHeaders': True, 'captureContent': True})
 
 		# Handle website timeout event, caused by ads
 		try:
@@ -147,7 +147,7 @@ for category in categories:
 		result = json.dumps(proxy.har, ensure_ascii=False)
 
 		# Get mobile HAR file
-		proxy.new_har(website, options = {'captureHeaders': True})
+		proxy.new_har(website, options = {'captureHeaders': True, 'captureContent': True})
 
 		# Handle website timeout event
 		try:
