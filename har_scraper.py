@@ -67,7 +67,7 @@ if sys.argv[1] == 'scrapeAlexa':
 			if '/' in site:
 				continue
 
-			sites.write(site + '\n')
+			sites.write(site.lower() + '\n')
 			all_sites.write(site.lower() + '\n')
 
 		sites.close()
@@ -125,8 +125,8 @@ for category in categories:
 	# Get HAR for every site
 	for site in sites:	
 		website = 'http://www.' + site
-		desktop_path = har_dir + '/' + category + '/desktop/' + site + '.har'
-		mobile_path = har_dir + '/' + category + '/mobile/' + site + '.har'
+		desktop_path = har_dir + '/' + category + '/Desktop/' + site + '.har'
+		mobile_path = har_dir + '/' + category + '/Mobile/' + site + '.har'
 
 		# Skip websites already gathered
 		if os.path.isfile(desktop_path) or os.path.isfile(mobile_path):

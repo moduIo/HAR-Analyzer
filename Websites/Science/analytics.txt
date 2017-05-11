@@ -1,0 +1,129 @@
+{'image_size': 21441, 'html_load': 1090, 'css_load': 359, 'js_size': 252080, 'image_load': 246, 'page_size': 308182, 'js_load': 325, 'url': 'ncbi.nlm.nih.gov', 'text_size': 49117, 'main_html_size': 237}
+{'image_size': 21441, 'html_load': 287, 'css_load': 323, 'js_size': 252080, 'image_load': 284, 'page_size': 308182, 'js_load': 345, 'url': 'ncbi.nlm.nih.gov', 'text_size': 49117, 'main_html_size': 237}
+---
+{'image_size': 77705, 'html_load': 710, 'css_load': 662, 'js_size': 873264, 'image_load': 1619, 'page_size': 1538033, 'js_load': 4790, 'url': 'researchgate.net', 'text_size': 244693, 'main_html_size': 55210}
+{'image_size': 77705, 'html_load': 261, 'css_load': 202, 'js_size': 873478, 'image_load': 321, 'page_size': 1170949, 'js_load': 914, 'url': 'researchgate.net', 'text_size': 243381, 'main_html_size': 52098}
+---
+{'image_size': 433215, 'html_load': 13031, 'css_load': 3345, 'js_size': 1302763, 'image_load': 18811, 'page_size': 2086981, 'js_load': 16726, 'url': 'urbandictionary.com', 'text_size': 539080, 'main_html_size': 100366}
+{'image_size': 1411579, 'html_load': 7205, 'css_load': 349, 'js_size': 1367406, 'image_load': 6990, 'page_size': 8029740, 'js_load': 5027, 'url': 'urbandictionary.com', 'text_size': 428204, 'main_html_size': 100366}
+---
+{'image_size': 180181, 'html_load': 1526, 'css_load': 58, 'js_size': 307853, 'image_load': 3133, 'page_size': 531719, 'js_load': 1464, 'url': 'sciencedirect.com', 'text_size': 245090, 'main_html_size': 76874}
+{'image_size': 173167, 'html_load': 427, 'css_load': 58, 'js_size': 288131, 'image_load': 236, 'page_size': 504252, 'js_load': 323, 'url': 'sciencedirect.com', 'text_size': 230628, 'main_html_size': 76874}
+---
+{'image_size': 942011, 'html_load': 7915, 'css_load': 1026, 'js_size': 1276057, 'image_load': 4695, 'page_size': 2521634, 'js_load': 14334, 'url': 'autodesk.com', 'text_size': 785094, 'main_html_size': 1250992}
+{'image_size': 922213, 'html_load': 991, 'css_load': 1093, 'js_size': 1029798, 'image_load': 1386, 'page_size': 2246552, 'js_load': 2522, 'url': 'autodesk.com', 'text_size': 706992, 'main_html_size': 1250992}
+---
+{'image_size': 241063, 'html_load': 2544, 'css_load': 565, 'js_size': 1240990, 'image_load': 366, 'page_size': 1688657, 'js_load': 4626, 'url': 'duolingo.com', 'text_size': 260605, 'main_html_size': 55871}
+{'image_size': 189333, 'html_load': 653, 'css_load': 145, 'js_size': 1225382, 'image_load': 818, 'page_size': 1617328, 'js_load': 2050, 'url': 'duolingo.com', 'text_size': 241871, 'main_html_size': 55874}
+---
+{'image_size': 161047, 'html_load': 3393, 'css_load': 1243, 'js_size': 404258, 'image_load': 2903, 'page_size': 616405, 'js_load': 6044, 'url': 'timeanddate.com', 'text_size': 173727, 'main_html_size': 212}
+{'image_size': 58033, 'html_load': 4192, 'css_load': 125, 'js_size': 257649, 'image_load': 8261, 'page_size': 430438, 'js_load': 6043, 'url': 'timeanddate.com', 'text_size': 227529, 'main_html_size': 212}
+---
+{'image_size': 1249810, 'html_load': 554, 'css_load': 750, 'js_size': 208455, 'image_load': 1707, 'page_size': 1628780, 'js_load': 2042, 'url': 'ted.com', 'text_size': 113779, 'main_html_size': 176408}
+{'image_size': 270975, 'html_load': 210, 'css_load': 150, 'js_size': 63377, 'image_load': 608, 'page_size': 512847, 'js_load': 1636, 'url': 'ted.com', 'text_size': 135522, 'main_html_size': 176408}
+---
+{'image_size': 1305998, 'html_load': 1314, 'css_load': 63, 'js_size': 473291, 'image_load': 2771, 'page_size': 2153949, 'js_load': 2739, 'url': 'nature.com', 'text_size': 62005, 'main_html_size': 70454}
+{'image_size': 243523, 'html_load': 1196, 'css_load': 279, 'js_size': 129131, 'image_load': 1844, 'page_size': 752349, 'js_load': 1269, 'url': 'nature.com', 'text_size': 85961, 'main_html_size': 70454}
+---
+{'image_size': 1419469, 'html_load': 2743, 'css_load': 250, 'js_size': 849251, 'image_load': 3871, 'page_size': 2731690, 'js_load': 6399, 'url': 'berkeley.edu', 'text_size': 739993, 'main_html_size': 52028}
+{'image_size': 1392098, 'html_load': 899, 'css_load': 253, 'js_size': 611161, 'image_load': 1345, 'page_size': 2464358, 'js_load': 1207, 'url': 'berkeley.edu', 'text_size': 709999, 'main_html_size': 52028}
+---
+{'image_size': 467374, 'html_load': 1212, 'css_load': 748, 'js_size': 758338, 'image_load': 1325, 'page_size': 1727298, 'js_load': 1822, 'url': 'mathworks.com', 'text_size': 1118417, 'main_html_size': 60761}
+{'image_size': 467394, 'html_load': 1880, 'css_load': 299, 'js_size': 757738, 'image_load': 1175, 'page_size': 1727239, 'js_load': 1120, 'url': 'mathworks.com', 'text_size': 1118338, 'main_html_size': 60761}
+---
+{'image_size': 223701, 'html_load': 1309, 'css_load': 611, 'js_size': 356660, 'image_load': 524, 'page_size': 654743, 'js_load': 2239, 'url': 'jstor.org', 'text_size': 193088, 'main_html_size': 14319}
+{'image_size': 293740, 'html_load': 665, 'css_load': 89, 'js_size': 319078, 'image_load': 999, 'page_size': 687777, 'js_load': 1075, 'url': 'jstor.org', 'text_size': 194763, 'main_html_size': 14319}
+---
+{'image_size': 2100513, 'html_load': 1420, 'css_load': 104, 'js_size': 621659, 'image_load': 2931, 'page_size': 2928785, 'js_load': 2441, 'url': 'nationalgeographic.com', 'text_size': 127138, 'main_html_size': 60179}
+{'image_size': 2104730, 'html_load': 268, 'css_load': 84, 'js_size': 554830, 'image_load': 1295, 'page_size': 2865410, 'js_load': 2912, 'url': 'nationalgeographic.com', 'text_size': 99484, 'main_html_size': 60179}
+---
+{'image_size': 732977, 'html_load': 720, 'css_load': 101, 'js_size': 279005, 'image_load': 1197, 'page_size': 1072428, 'js_load': 1442, 'url': 'mayoclinic.org', 'text_size': 208224, 'main_html_size': 36200}
+{'image_size': 669096, 'html_load': 476, 'css_load': 116, 'js_size': 275017, 'image_load': 453, 'page_size': 1004433, 'js_load': 7548, 'url': 'mayoclinic.org', 'text_size': 206903, 'main_html_size': 36213}
+---
+{'image_size': 433576, 'html_load': 762, 'css_load': 167, 'js_size': 514532, 'image_load': 333, 'page_size': 1000203, 'js_load': 278, 'url': 'weather.gov', 'text_size': 566627, 'main_html_size': 134867}
+{'image_size': 433576, 'html_load': 172, 'css_load': 208, 'js_size': 533965, 'image_load': 281, 'page_size': 1018077, 'js_load': 352, 'url': 'weather.gov', 'text_size': 574793, 'main_html_size': 134867}
+---
+{'image_size': 12374, 'html_load': 1891, 'css_load': 98, 'js_size': 75946, 'image_load': 1166, 'page_size': 99423, 'js_load': 677, 'url': 'arxiv.org', 'text_size': 87049, 'main_html_size': 289}
+{'image_size': 12374, 'html_load': 968, 'css_load': 72, 'js_size': 54256, 'image_load': 525, 'page_size': 75567, 'js_load': 107, 'url': 'arxiv.org', 'text_size': 63193, 'main_html_size': 289}
+---
+{'image_size': 508869, 'html_load': 1050, 'css_load': 1535, 'js_size': 475659, 'image_load': 495, 'page_size': 1312022, 'js_load': 3856, 'url': 'elsevier.com', 'text_size': 291442, 'main_html_size': 42473}
+{'image_size': 508738, 'html_load': 314, 'css_load': 567, 'js_size': 449184, 'image_load': 639, 'page_size': 1285308, 'js_load': 1335, 'url': 'elsevier.com', 'text_size': 223552, 'main_html_size': 42473}
+---
+{'image_size': 12036, 'html_load': 679, 'css_load': 107, 'js_size': 124246, 'image_load': 111, 'page_size': 671843, 'js_load': 102, 'url': 'blockchain.info', 'text_size': 43374, 'main_html_size': 31665}
+{'image_size': 12001, 'html_load': 325, 'css_load': 98, 'js_size': 124246, 'image_load': 56, 'page_size': 485042, 'js_load': 126, 'url': 'blockchain.info', 'text_size': 43375, 'main_html_size': 31665}
+---
+{'image_size': 606356, 'html_load': 6351, 'css_load': 790, 'js_size': 2553922, 'image_load': 9201, 'page_size': 3710618, 'js_load': 9462, 'url': 'economist.com', 'text_size': 673248, 'main_html_size': 556232}
+{'image_size': 439238, 'html_load': 1302, 'css_load': 244, 'js_size': 2475528, 'image_load': 2255, 'page_size': 3427501, 'js_load': 4174, 'url': 'economist.com', 'text_size': 728157, 'main_html_size': 556226}
+---
+{'image_size': 270913, 'html_load': 1592, 'css_load': 374, 'js_size': 601611, 'image_load': 4239, 'page_size': 971516, 'js_load': 4591, 'url': 'coinmarketcap.com', 'text_size': 382115, 'main_html_size': 201245}
+{'image_size': 349333, 'html_load': 169, 'css_load': 224, 'js_size': 121095, 'image_load': 1799, 'page_size': 547229, 'js_load': 294, 'url': 'coinmarketcap.com', 'text_size': 90510, 'main_html_size': 200324}
+---
+{'image_size': 2487748, 'html_load': 2011, 'css_load': 1448, 'js_size': 624488, 'image_load': 4044, 'page_size': 3717776, 'js_load': 1038, 'url': 'noaa.gov', 'text_size': 739683, 'main_html_size': 54588}
+{'image_size': 2211365, 'html_load': 364, 'css_load': 937, 'js_size': 624488, 'image_load': 2402, 'page_size': 3434013, 'js_load': 894, 'url': 'noaa.gov', 'text_size': 732303, 'main_html_size': 54588}
+---
+{'image_size': 836907, 'html_load': 4654, 'css_load': 297, 'js_size': 497879, 'image_load': 6384, 'page_size': 1506021, 'js_load': 5881, 'url': 'howstuffworks.com', 'text_size': 283148, 'main_html_size': 65191}
+{'image_size': 829274, 'html_load': 1018, 'css_load': 150, 'js_size': 478740, 'image_load': 3624, 'page_size': 1443191, 'js_load': 1279, 'url': 'howstuffworks.com', 'text_size': 215429, 'main_html_size': 65191}
+---
+{'image_size': 1194316, 'html_load': 14021, 'css_load': 223, 'js_size': 967431, 'image_load': 15155, 'page_size': 18797240, 'js_load': 15491, 'url': 'livescience.com', 'text_size': 1242793, 'main_html_size': 167325}
+{'image_size': 1001990, 'html_load': 1149, 'css_load': 642, 'js_size': 233788, 'image_load': 1552, 'page_size': 1441299, 'js_load': 1166, 'url': 'livescience.com', 'text_size': 124237, 'main_html_size': 125405}
+---
+{'image_size': 884197, 'html_load': 10839, 'css_load': 1888, 'js_size': 1255457, 'image_load': 10936, 'page_size': 2505317, 'js_load': 7359, 'url': 'acs.org', 'text_size': 599976, 'main_html_size': 228}
+{'image_size': 807355, 'html_load': 391, 'css_load': 585, 'js_size': 742830, 'image_load': 1643, 'page_size': 1838738, 'js_load': 1313, 'url': 'acs.org', 'text_size': 197333, 'main_html_size': 228}
+---
+{'image_size': 3090698, 'html_load': 2941, 'css_load': 1393, 'js_size': 589847, 'image_load': 4696, 'page_size': 4495149, 'js_load': 3261, 'url': 'sciencemag.org', 'text_size': 526060, 'main_html_size': 167356}
+{'image_size': 1734112, 'html_load': 1011, 'css_load': 471, 'js_size': 442261, 'image_load': 1351, 'page_size': 2925069, 'js_load': 1265, 'url': 'sciencemag.org', 'text_size': 370976, 'main_html_size': 167356}
+---
+{'image_size': 416388, 'html_load': 879, 'css_load': 742, 'js_size': 84242, 'image_load': 2428, 'page_size': 662938, 'js_load': 713, 'url': 'wolfram.com', 'text_size': 181199, 'main_html_size': 100941}
+{'image_size': 288109, 'html_load': 625, 'css_load': 314, 'js_size': 54201, 'image_load': 547, 'page_size': 477552, 'js_load': 458, 'url': 'wolfram.com', 'text_size': 176537, 'main_html_size': 100941}
+---
+{'image_size': 454004, 'html_load': 3144, 'css_load': 575, 'js_size': 223225, 'image_load': 4810, 'page_size': 1114625, 'js_load': 2901, 'url': 'usgs.gov', 'text_size': 211891, 'main_html_size': 233}
+{'image_size': 400815, 'html_load': 1765, 'css_load': 926, 'js_size': 161185, 'image_load': 1038, 'page_size': 997698, 'js_load': 746, 'url': 'usgs.gov', 'text_size': 202316, 'main_html_size': 233}
+---
+{'image_size': 66565, 'html_load': 3243, 'css_load': 69, 'js_size': 327140, 'image_load': 1815, 'page_size': 562165, 'js_load': 1729, 'url': 'symbolab.com', 'text_size': 178422, 'main_html_size': 63253}
+{'image_size': 17773, 'html_load': 871, 'css_load': 83, 'js_size': 294833, 'image_load': 247, 'page_size': 345600, 'js_load': 511, 'url': 'symbolab.com', 'text_size': 87849, 'main_html_size': 63331}
+---
+{'image_size': 59806, 'html_load': 377, 'css_load': 30, 'js_size': 37414, 'image_load': 74, 'page_size': 110030, 'js_load': 89, 'url': 'nps.gov', 'text_size': 12773, 'main_html_size': 42763}
+{'image_size': 629139, 'html_load': 89, 'css_load': 403, 'js_size': 227789, 'image_load': 517, 'page_size': 962877, 'js_load': 510, 'url': 'nps.gov', 'text_size': 105949, 'main_html_size': 42763}
+---
+{'image_size': 3115948, 'html_load': 4215, 'css_load': 742, 'js_size': 308294, 'image_load': 2624, 'page_size': 3692827, 'js_load': 4291, 'url': 'fao.org', 'text_size': 100747, 'main_html_size': 235}
+{'image_size': 2135287, 'html_load': 4398, 'css_load': 756, 'js_size': 121106, 'image_load': 1771, 'page_size': 2386222, 'js_load': 1683, 'url': 'fao.org', 'text_size': 74309, 'main_html_size': 235}
+---
+{'image_size': 8627279, 'html_load': 1194, 'css_load': 252, 'js_size': 94406, 'image_load': 3782, 'page_size': 8801926, 'js_load': 698, 'url': 'usda.gov', 'text_size': 117107, 'main_html_size': 37371}
+{'image_size': 7908257, 'html_load': 246, 'css_load': 59, 'js_size': 55603, 'image_load': 4584, 'page_size': 8037615, 'js_load': 333, 'url': 'usda.gov', 'text_size': 71898, 'main_html_size': 37371}
+---
+{'image_size': 381917, 'html_load': 7032, 'css_load': 246, 'js_size': 128193, 'image_load': 5398, 'page_size': 773974, 'js_load': 1925, 'url': 'colorado.edu', 'text_size': 279649, 'main_html_size': 54664}
+{'image_size': 381753, 'html_load': 697, 'css_load': 299, 'js_size': 128180, 'image_load': 1317, 'page_size': 773278, 'js_load': 2230, 'url': 'colorado.edu', 'text_size': 279025, 'main_html_size': 54664}
+---
+{'image_size': 1148702, 'html_load': 1033, 'css_load': 2303, 'js_size': 2347198, 'image_load': 2363, 'page_size': 3855637, 'js_load': 10422, 'url': 'plos.org', 'text_size': 275569, 'main_html_size': 169}
+{'image_size': 61578, 'html_load': 528, 'css_load': 1065, 'js_size': 2347198, 'image_load': 576, 'page_size': 2701472, 'js_load': 2831, 'url': 'plos.org', 'text_size': 275152, 'main_html_size': 169}
+---
+{'image_size': 1214255, 'html_load': 1464, 'css_load': 624, 'js_size': 294265, 'image_load': 2665, 'page_size': 1613985, 'js_load': 3330, 'url': 'sigmaaldrich.com', 'text_size': 46572, 'main_html_size': 43438}
+{'image_size': 125883, 'html_load': 246, 'css_load': 305, 'js_size': 284572, 'image_load': 475, 'page_size': 437740, 'js_load': 598, 'url': 'sigmaaldrich.com', 'text_size': 45148, 'main_html_size': 43436}
+---
+{'image_size': 817278, 'html_load': 567, 'css_load': 558, 'js_size': 162051, 'image_load': 633, 'page_size': 1087867, 'js_load': 1199, 'url': 'rsc.org', 'text_size': 30780, 'main_html_size': 36341}
+{'image_size': 830060, 'html_load': 427, 'css_load': 68, 'js_size': 160727, 'image_load': 547, 'page_size': 1097933, 'js_load': 177, 'url': 'rsc.org', 'text_size': 28242, 'main_html_size': 36341}
+---
+{'image_size': 422580, 'html_load': 1679, 'css_load': 308, 'js_size': 301121, 'image_load': 2115, 'page_size': 1241193, 'js_load': 5876, 'url': 'scientificamerican.com', 'text_size': 255857, 'main_html_size': 96688}
+{'image_size': 369858, 'html_load': 392, 'css_load': 210, 'js_size': 262678, 'image_load': 1823, 'page_size': 1147395, 'js_load': 1244, 'url': 'scientificamerican.com', 'text_size': 217000, 'main_html_size': 96653}
+---
+{'image_size': 166678, 'html_load': 1002, 'css_load': 74, 'js_size': 170631, 'image_load': 2113, 'page_size': 442760, 'js_load': 673, 'url': 'biomedcentral.com', 'text_size': 176779, 'main_html_size': 34600}
+{'image_size': 139866, 'html_load': 513, 'css_load': 77, 'js_size': 181646, 'image_load': 330, 'page_size': 462017, 'js_load': 552, 'url': 'biomedcentral.com', 'text_size': 176194, 'main_html_size': 34600}
+---
+{'image_size': 179361, 'html_load': 1528, 'css_load': 484, 'js_size': 551788, 'image_load': 2292, 'page_size': 949471, 'js_load': 3261, 'url': 'popularmechanics.com', 'text_size': 307553, 'main_html_size': 214922}
+{'image_size': 22297, 'html_load': 762, 'css_load': 112, 'js_size': 166014, 'image_load': 989, 'page_size': 2420645, 'js_load': 1128, 'url': 'popularmechanics.com', 'text_size': 126249, 'main_html_size': 214922}
+---
+{'image_size': 1014478, 'html_load': 3457, 'css_load': 33, 'js_size': 867059, 'image_load': 7121, 'page_size': 4127931, 'js_load': 9405, 'url': 'bom.gov.au', 'text_size': 644863, 'main_html_size': 34049}
+{'image_size': 337220, 'html_load': 1918, 'css_load': 262, 'js_size': 56473, 'image_load': 998, 'page_size': 516319, 'js_load': 993, 'url': 'bom.gov.au', 'text_size': 41044, 'main_html_size': 34049}
+---
+{'image_size': 10125, 'html_load': 947, 'css_load': 127, 'js_size': 4575, 'image_load': 64, 'page_size': 39040, 'js_load': 14, 'url': 'bitcointalk.org', 'text_size': 24340, 'main_html_size': 95281}
+{'image_size': 10125, 'html_load': 292, 'css_load': 181, 'js_size': 4575, 'image_load': 80, 'page_size': 39011, 'js_load': 26, 'url': 'bitcointalk.org', 'text_size': 24311, 'main_html_size': 95374}
+---
+{'image_size': 1111506, 'html_load': 861, 'css_load': 128, 'js_size': 325321, 'image_load': 1513, 'page_size': 1753943, 'js_load': 1775, 'url': 'apa.org', 'text_size': 348129, 'main_html_size': 45863}
+{'image_size': 1111506, 'html_load': 146, 'css_load': 128, 'js_size': 323334, 'image_load': 1744, 'page_size': 1751943, 'js_load': 491, 'url': 'apa.org', 'text_size': 337173, 'main_html_size': 45874}
+---
+{'image_size': 1417490, 'html_load': 686, 'css_load': 284, 'js_size': 657103, 'image_load': 1579, 'page_size': 2306837, 'js_load': 1274, 'url': 'epa.gov', 'text_size': 690308, 'main_html_size': 34809}
+{'image_size': 1077933, 'html_load': 393, 'css_load': 177, 'js_size': 607482, 'image_load': 496, 'page_size': 1890079, 'js_load': 393, 'url': 'epa.gov', 'text_size': 653551, 'main_html_size': 34809}
+---
+{'image_size': 1327552, 'html_load': 4677, 'css_load': 658, 'js_size': 690608, 'image_load': 9218, 'page_size': 2420023, 'js_load': 15919, 'url': 'intellicast.com', 'text_size': 549949, 'main_html_size': 66092}
+{'image_size': 3116, 'html_load': 6772, 'css_load': 565, 'js_size': 222487, 'image_load': 3484, 'page_size': 448826, 'js_load': 2336, 'url': 'intellicast.com', 'text_size': 276232, 'main_html_size': 66092}
+---

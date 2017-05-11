@@ -1,0 +1,138 @@
+{'image_size': 15967297, 'html_load': 6036, 'css_load': 261, 'js_size': 227972, 'image_load': 11948, 'page_size': 16358702, 'js_load': 6321, 'url': 'pinktentacle.com', 'text_size': 192536, 'main_html_size': 55016}
+{'image_size': 15193817, 'html_load': 4257, 'css_load': 1512, 'js_size': 48938, 'image_load': 6822, 'page_size': 15321610, 'js_load': 1632, 'url': 'pinktentacle.com', 'text_size': 78355, 'main_html_size': 55025}
+---
+{'image_size': 2992215, 'html_load': 584, 'css_load': 457, 'js_size': 238981, 'image_load': 2092, 'page_size': 3427583, 'js_load': 1475, 'url': 'instructables.com', 'text_size': 173679, 'main_html_size': 69832}
+{'image_size': 522860, 'html_load': 64, 'css_load': 275, 'js_size': 282833, 'image_load': 311, 'page_size': 909057, 'js_load': 292, 'url': 'instructables.com', 'text_size': 268459, 'main_html_size': 26484}
+---
+{'image_size': 266846, 'html_load': 2191, 'css_load': 346, 'js_size': 472489, 'image_load': 1016, 'page_size': 895320, 'js_load': 732, 'url': 'weavesilk.com', 'text_size': 494529, 'main_html_size': 23448}
+{'image_size': 266615, 'html_load': 621, 'css_load': 211, 'js_size': 571970, 'image_load': 304, 'page_size': 994570, 'js_load': 680, 'url': 'weavesilk.com', 'text_size': 494481, 'main_html_size': 23448}
+---
+{'image_size': 248260, 'html_load': 4605, 'css_load': 796, 'js_size': 500691, 'image_load': 1442, 'page_size': 995753, 'js_load': 3167, 'url': 'whereshouldishop.com', 'text_size': 390407, 'main_html_size': 112452}
+{'image_size': 248217, 'html_load': 1255, 'css_load': 353, 'js_size': 292339, 'image_load': 1441, 'page_size': 735411, 'js_load': 773, 'url': 'whereshouldishop.com', 'text_size': 380420, 'main_html_size': 112452}
+---
+{'image_size': 1314759, 'html_load': 7534, 'css_load': 1414, 'js_size': 789582, 'image_load': 1748, 'page_size': 2563216, 'js_load': 3900, 'url': 'members.optusnet.com.au', 'text_size': 995333, 'main_html_size': 211}
+{'image_size': 475937, 'html_load': 2360, 'css_load': 180, 'js_size': 1004995, 'image_load': 2977, 'page_size': 1808176, 'js_load': 3197, 'url': 'members.optusnet.com.au', 'text_size': 619485, 'main_html_size': 211}
+---
+{'image_size': 3367244, 'html_load': 2807, 'css_load': 463, 'js_size': 397736, 'image_load': 1663, 'page_size': 4002391, 'js_load': 3013, 'url': 'beepb.com', 'text_size': 321259, 'main_html_size': 202324}
+{'image_size': 3366917, 'html_load': 1810, 'css_load': 227, 'js_size': 403466, 'image_load': 1262, 'page_size': 3907817, 'js_load': 835, 'url': 'beepb.com', 'text_size': 258753, 'main_html_size': 202342}
+---
+{'image_size': 115608, 'html_load': 1830, 'css_load': 954, 'js_size': 192867, 'image_load': 802, 'page_size': 471348, 'js_load': 1880, 'url': 'schah.at', 'text_size': 248124, 'main_html_size': 13259}
+{'image_size': 115549, 'html_load': 997, 'css_load': 695, 'js_size': 192867, 'image_load': 664, 'page_size': 471289, 'js_load': 849, 'url': 'schah.at', 'text_size': 248124, 'main_html_size': 13259}
+---
+{'image_size': 71291, 'html_load': 427, 'css_load': 213, 'js_size': 86690, 'image_load': 392, 'page_size': 173934, 'js_load': 862, 'url': 'hereistoday.com', 'text_size': 15953, 'main_html_size': 2761}
+{'image_size': 71356, 'html_load': 393, 'css_load': 213, 'js_size': 86690, 'image_load': 333, 'page_size': 173433, 'js_load': 484, 'url': 'hereistoday.com', 'text_size': 15387, 'main_html_size': 2761}
+---
+{'image_size': 2924654, 'html_load': 597, 'css_load': 474, 'js_size': 668735, 'image_load': 3242, 'page_size': 3621069, 'js_load': 3432, 'url': 'drawastickman.com', 'text_size': 72027, 'main_html_size': 13593}
+{'image_size': 2893888, 'html_load': 111, 'css_load': 89, 'js_size': 618792, 'image_load': 1914, 'page_size': 3534440, 'js_load': 434, 'url': 'drawastickman.com', 'text_size': 42894, 'main_html_size': 13593}
+---
+{'image_size': 258822, 'html_load': 942, 'css_load': 1173, 'js_size': 0, 'image_load': 618, 'page_size': 270992, 'js_load': 0, 'url': 'butchersworkshop.com', 'text_size': 2022, 'main_html_size': 4345}
+{'image_size': 256359, 'html_load': 205, 'css_load': 68, 'js_size': 0, 'image_load': 509, 'page_size': 258046, 'js_load': 0, 'url': 'butchersworkshop.com', 'text_size': 1687, 'main_html_size': 4345}
+---
+{'image_size': 39963, 'html_load': 1588, 'css_load': 420, 'js_size': 122509, 'image_load': 115, 'page_size': 272616, 'js_load': 517, 'url': 'johnnylists.com', 'text_size': 94729, 'main_html_size': 17474}
+{'image_size': 3961, 'html_load': 433, 'css_load': 339, 'js_size': 122509, 'image_load': 117, 'page_size': 206774, 'js_load': 370, 'url': 'johnnylists.com', 'text_size': 80429, 'main_html_size': 17474}
+---
+{'image_size': 253668, 'html_load': 216, 'css_load': 473, 'js_size': 535459, 'image_load': 232, 'page_size': 1577489, 'js_load': 370, 'url': 'thechangeblog.com', 'text_size': 763606, 'main_html_size': 44379}
+{'image_size': 253578, 'html_load': 1075, 'css_load': 509, 'js_size': 535459, 'image_load': 144, 'page_size': 1564765, 'js_load': 327, 'url': 'thechangeblog.com', 'text_size': 761300, 'main_html_size': 44385}
+---
+{'image_size': 202880, 'html_load': 10089, 'css_load': 103, 'js_size': 96297, 'image_load': 12270, 'page_size': 396677, 'js_load': 5744, 'url': 'projectcartoon.com', 'text_size': 127423, 'main_html_size': 7242}
+{'image_size': 179427, 'html_load': 265, 'css_load': 92, 'js_size': 128, 'image_load': 565, 'page_size': 183005, 'js_load': 26, 'url': 'projectcartoon.com', 'text_size': 3575, 'main_html_size': 7242}
+---
+{'image_size': 1586869, 'html_load': 1259, 'css_load': 381, 'js_size': 111129, 'image_load': 1633, 'page_size': 2010336, 'js_load': 1767, 'url': 'neomam.com', 'text_size': 317828, 'main_html_size': 1172}
+{'image_size': 1580390, 'html_load': 1237, 'css_load': 194, 'js_size': 106144, 'image_load': 1214, 'page_size': 1896512, 'js_load': 487, 'url': 'neomam.com', 'text_size': 210483, 'main_html_size': 1172}
+---
+{'image_size': 1441, 'html_load': 112, 'css_load': 0, 'js_size': 42084, 'image_load': 60, 'page_size': 87432, 'js_load': 92, 'url': 'zenphoton.com', 'text_size': 2087, 'main_html_size': 229}
+{'image_size': 1441, 'html_load': 274, 'css_load': 0, 'js_size': 42195, 'image_load': 61, 'page_size': 87543, 'js_load': 406, 'url': 'zenphoton.com', 'text_size': 2198, 'main_html_size': 229}
+---
+{'image_size': 5302687, 'html_load': 1447, 'css_load': 67, 'js_size': 129265, 'image_load': 2979, 'page_size': 5475396, 'js_load': 3046, 'url': 'emptykingdom.com', 'text_size': 80613, 'main_html_size': 124681}
+{'image_size': 5335885, 'html_load': 385, 'css_load': 198, 'js_size': 427501, 'image_load': 2235, 'page_size': 5837951, 'js_load': 1133, 'url': 'emptykingdom.com', 'text_size': 111734, 'main_html_size': 124681}
+---
+{'image_size': 329206, 'html_load': 671, 'css_load': 652, 'js_size': 397489, 'image_load': 1185, 'page_size': 813486, 'js_load': 1000, 'url': 'smallnotebook.org', 'text_size': 116840, 'main_html_size': 17711}
+{'image_size': 294999, 'html_load': 517, 'css_load': 599, 'js_size': 40618, 'image_load': 433, 'page_size': 351594, 'js_load': 574, 'url': 'smallnotebook.org', 'text_size': 23512, 'main_html_size': 17711}
+---
+{'image_size': 1297209, 'html_load': 5821, 'css_load': 989, 'js_size': 111900, 'image_load': 5865, 'page_size': 1580310, 'js_load': 2770, 'url': 'skithub.com', 'text_size': 127975, 'main_html_size': 120155}
+{'image_size': 1315179, 'html_load': 3702, 'css_load': 982, 'js_size': 200388, 'image_load': 5411, 'page_size': 1738806, 'js_load': 2831, 'url': 'skithub.com', 'text_size': 196637, 'main_html_size': 120155}
+---
+{'image_size': 884, 'html_load': 1281, 'css_load': 84, 'js_size': 173, 'image_load': 427, 'page_size': 61954, 'js_load': 120, 'url': 'old-pc-games.com', 'text_size': 60897, 'main_html_size': 59989}
+{'image_size': 3348, 'html_load': 178, 'css_load': 83, 'js_size': 173, 'image_load': 1036, 'page_size': 64418, 'js_load': 104, 'url': 'old-pc-games.com', 'text_size': 60897, 'main_html_size': 59989}
+---
+{'image_size': 335681, 'html_load': 472, 'css_load': 0, 'js_size': 145315, 'image_load': 455, 'page_size': 503556, 'js_load': 170, 'url': 'donothingfor2minutes.com', 'text_size': 167741, 'main_html_size': 9136}
+{'image_size': 339418, 'html_load': 2037, 'css_load': 0, 'js_size': 150479, 'image_load': 717, 'page_size': 578624, 'js_load': 138, 'url': 'donothingfor2minutes.com', 'text_size': 172910, 'main_html_size': 9136}
+---
+{'image_size': 17485, 'html_load': 1915, 'css_load': 100, 'js_size': 28682, 'image_load': 1592, 'page_size': 119837, 'js_load': 953, 'url': 'whathappenedinmybirthyear.com', 'text_size': 75042, 'main_html_size': 245}
+{'image_size': 77, 'html_load': 421, 'css_load': 106, 'js_size': 20894, 'image_load': 48, 'page_size': 26650, 'js_load': 216, 'url': 'whathappenedinmybirthyear.com', 'text_size': 5804, 'main_html_size': 245}
+---
+{'image_size': 59868, 'html_load': 1014, 'css_load': 46, 'js_size': 36192, 'image_load': 1153, 'page_size': 123818, 'js_load': 1222, 'url': 'nichegeek.com', 'text_size': 63950, 'main_html_size': 20101}
+{'image_size': 74656, 'html_load': 457, 'css_load': 40, 'js_size': 36192, 'image_load': 1156, 'page_size': 132704, 'js_load': 124, 'url': 'nichegeek.com', 'text_size': 58048, 'main_html_size': 20101}
+---
+{'image_size': 0, 'html_load': 173, 'css_load': 0, 'js_size': 0, 'image_load': 0, 'page_size': 315, 'js_load': 0, 'url': 'freeyork.org', 'text_size': 315, 'main_html_size': 315}
+{'image_size': 0, 'html_load': 443, 'css_load': 0, 'js_size': 0, 'image_load': 0, 'page_size': 315, 'js_load': 0, 'url': 'freeyork.org', 'text_size': 315, 'main_html_size': 315}
+---
+{'image_size': 1164499, 'html_load': 8821, 'css_load': 147, 'js_size': 520859, 'image_load': 8525, 'page_size': 1842030, 'js_load': 5246, 'url': 'theawesomedaily.com', 'text_size': 328550, 'main_html_size': 78074}
+{'image_size': 973917, 'html_load': 4987, 'css_load': 141, 'js_size': 417219, 'image_load': 1007, 'page_size': 1472268, 'js_load': 700, 'url': 'theawesomedaily.com', 'text_size': 290014, 'main_html_size': 77679}
+---
+{'image_size': 6093098, 'html_load': 717, 'css_load': 51, 'js_size': 70918, 'image_load': 2909, 'page_size': 6329925, 'js_load': 277, 'url': 'odditymall.com', 'text_size': 69029, 'main_html_size': 831}
+{'image_size': 6391351, 'html_load': 3522, 'css_load': 917, 'js_size': 218049, 'image_load': 3492, 'page_size': 6920588, 'js_load': 1632, 'url': 'odditymall.com', 'text_size': 135017, 'main_html_size': 1166}
+---
+{'image_size': 420922, 'html_load': 2909, 'css_load': 439, 'js_size': 443719, 'image_load': 3185, 'page_size': 1157217, 'js_load': 4462, 'url': 'onebigphoto.com', 'text_size': 251879, 'main_html_size': 49720}
+{'image_size': 436474, 'html_load': 1304, 'css_load': 491, 'js_size': 477476, 'image_load': 1448, 'page_size': 1146958, 'js_load': 1251, 'url': 'onebigphoto.com', 'text_size': 171145, 'main_html_size': 49719}
+---
+{'image_size': 7455266, 'html_load': 3740, 'css_load': 5427, 'js_size': 243189, 'image_load': 5312, 'page_size': 7884582, 'js_load': 6904, 'url': 'streetartutopia.com', 'text_size': 175643, 'main_html_size': 118114}
+{'image_size': 7410740, 'html_load': 1121, 'css_load': 164, 'js_size': 105201, 'image_load': 2470, 'page_size': 7593112, 'js_load': 1103, 'url': 'streetartutopia.com', 'text_size': 83768, 'main_html_size': 118114}
+---
+{'image_size': 1813670, 'html_load': 2537, 'css_load': 552, 'js_size': 238926, 'image_load': 3254, 'page_size': 2457941, 'js_load': 2688, 'url': 'thedrive.com', 'text_size': 233349, 'main_html_size': 245096}
+{'image_size': 1813795, 'html_load': 1122, 'css_load': 82, 'js_size': 217765, 'image_load': 1338, 'page_size': 2436733, 'js_load': 1279, 'url': 'thedrive.com', 'text_size': 225520, 'main_html_size': 245096}
+---
+{'image_size': 1357042, 'html_load': 6056, 'css_load': 1568, 'js_size': 631273, 'image_load': 6024, 'page_size': 2247012, 'js_load': 2659, 'url': 'preciousyemsy.com', 'text_size': 576952, 'main_html_size': 161952}
+{'image_size': 782826, 'html_load': 1062, 'css_load': 102, 'js_size': 196466, 'image_load': 1849, 'page_size': 1023725, 'js_load': 874, 'url': 'preciousyemsy.com', 'text_size': 83543, 'main_html_size': 68405}
+---
+{'image_size': 1695296, 'html_load': 3337, 'css_load': 1149, 'js_size': 74738, 'image_load': 2960, 'page_size': 1831956, 'js_load': 2124, 'url': 'dudye.com', 'text_size': 67909, 'main_html_size': 44852}
+{'image_size': 78, 'html_load': 2391, 'css_load': 255, 'js_size': 200866, 'image_load': 233, 'page_size': 297852, 'js_load': 585, 'url': 'dudye.com', 'text_size': 85508, 'main_html_size': 27824}
+---
+{'image_size': 188520, 'html_load': 1525, 'css_load': 434, 'js_size': 232989, 'image_load': 296, 'page_size': 593903, 'js_load': 1964, 'url': 'math.psu.edu', 'text_size': 172394, 'main_html_size': 229}
+{'image_size': 188520, 'html_load': 788, 'css_load': 351, 'js_size': 232989, 'image_load': 241, 'page_size': 593903, 'js_load': 870, 'url': 'math.psu.edu', 'text_size': 172394, 'main_html_size': 229}
+---
+{'image_size': 1073126, 'html_load': 1316, 'css_load': 100, 'js_size': 473439, 'image_load': 2930, 'page_size': 1697591, 'js_load': 3473, 'url': 'uncommongoods.com', 'text_size': 88355, 'main_html_size': 82056}
+{'image_size': 1715458, 'html_load': 270, 'css_load': 162, 'js_size': 475068, 'image_load': 1515, 'page_size': 2328621, 'js_load': 1255, 'url': 'uncommongoods.com', 'text_size': 88662, 'main_html_size': 82056}
+---
+{'image_size': 382108, 'html_load': 3431, 'css_load': 30, 'js_size': 840591, 'image_load': 8357, 'page_size': 1554275, 'js_load': 5811, 'url': 'self.com', 'text_size': 220811, 'main_html_size': 153806}
+{'image_size': 169664, 'html_load': 773, 'css_load': 270, 'js_size': 545764, 'image_load': 1249, 'page_size': 1006425, 'js_load': 855, 'url': 'self.com', 'text_size': 171668, 'main_html_size': 153806}
+---
+{'image_size': 105851, 'html_load': 1753, 'css_load': 403, 'js_size': 102415, 'image_load': 1942, 'page_size': 226799, 'js_load': 2085, 'url': 'nickciske.com', 'text_size': 55497, 'main_html_size': 17855}
+{'image_size': 101610, 'html_load': 921, 'css_load': 708, 'js_size': 209511, 'image_load': 1426, 'page_size': 340714, 'js_load': 2224, 'url': 'nickciske.com', 'text_size': 51762, 'main_html_size': 17855}
+---
+{'image_size': 932597, 'html_load': 7951, 'css_load': 1645, 'js_size': 1022415, 'image_load': 8580, 'page_size': 3840608, 'js_load': 5869, 'url': 'cracked.com', 'text_size': 1132898, 'main_html_size': 77658}
+{'image_size': 208378, 'html_load': 2973, 'css_load': 494, 'js_size': 586956, 'image_load': 4231, 'page_size': 1052283, 'js_load': 4385, 'url': 'cracked.com', 'text_size': 318144, 'main_html_size': 72983}
+---
+{'image_size': 1653285, 'html_load': 1905, 'css_load': 386, 'js_size': 186413, 'image_load': 2720, 'page_size': 2080995, 'js_load': 1197, 'url': 'synapticstimuli.com', 'text_size': 230991, 'main_html_size': 132858}
+{'image_size': 1571972, 'html_load': 730, 'css_load': 288, 'js_size': 181201, 'image_load': 787, 'page_size': 1968484, 'js_load': 603, 'url': 'synapticstimuli.com', 'text_size': 204319, 'main_html_size': 132856}
+---
+{'image_size': 4690187, 'html_load': 6154, 'css_load': 2988, 'js_size': 1450647, 'image_load': 13230, 'page_size': 6736288, 'js_load': 14005, 'url': 'thechive.com', 'text_size': 751505, 'main_html_size': 312340}
+{'image_size': 4424772, 'html_load': 5038, 'css_load': 708, 'js_size': 1558208, 'image_load': 10583, 'page_size': 6552056, 'js_load': 8967, 'url': 'thechive.com', 'text_size': 766486, 'main_html_size': 311691}
+---
+{'image_size': 386247, 'html_load': 2193, 'css_load': 114, 'js_size': 459769, 'image_load': 6482, 'page_size': 2526561, 'js_load': 4458, 'url': 'allure.com', 'text_size': 1382574, 'main_html_size': 197247}
+{'image_size': 174483, 'html_load': 1042, 'css_load': 44, 'js_size': 414357, 'image_load': 2897, 'page_size': 792361, 'js_load': 2756, 'url': 'allure.com', 'text_size': 139704, 'main_html_size': 197247}
+---
+{'image_size': 4213749, 'html_load': 838, 'css_load': 237, 'js_size': 380017, 'image_load': 5309, 'page_size': 5031122, 'js_load': 3130, 'url': 'lovelyindeed.com', 'text_size': 383803, 'main_html_size': 289941}
+{'image_size': 4206463, 'html_load': 287, 'css_load': 413, 'js_size': 147177, 'image_load': 1925, 'page_size': 4539687, 'js_load': 324, 'url': 'lovelyindeed.com', 'text_size': 155834, 'main_html_size': 289941}
+---
+{'image_size': 402759, 'html_load': 9122, 'css_load': 491, 'js_size': 124138, 'image_load': 3459, 'page_size': 895726, 'js_load': 1432, 'url': 'bumbumbum.me', 'text_size': 368829, 'main_html_size': 31624}
+{'image_size': 402643, 'html_load': 5262, 'css_load': 229, 'js_size': 236881, 'image_load': 811, 'page_size': 1002133, 'js_load': 535, 'url': 'bumbumbum.me', 'text_size': 475234, 'main_html_size': 31624}
+---
+{'image_size': 225167, 'html_load': 3728, 'css_load': 1023, 'js_size': 150240, 'image_load': 263, 'page_size': 489965, 'js_load': 1219, 'url': 'oldversion.com', 'text_size': 199738, 'main_html_size': 33870}
+{'image_size': 256247, 'html_load': 1402, 'css_load': 187, 'js_size': 150297, 'image_load': 237, 'page_size': 521106, 'js_load': 367, 'url': 'oldversion.com', 'text_size': 199799, 'main_html_size': 33870}
+---
+{'image_size': 3595208, 'html_load': 3655, 'css_load': 1106, 'js_size': 381720, 'image_load': 3019, 'page_size': 4183701, 'js_load': 2780, 'url': 'joshworth.com', 'text_size': 542395, 'main_html_size': 239096}
+{'image_size': 3568769, 'html_load': 490, 'css_load': 2895, 'js_size': 381663, 'image_load': 2861, 'page_size': 4122711, 'js_load': 1103, 'url': 'joshworth.com', 'text_size': 552160, 'main_html_size': 239096}
+---
+{'image_size': 6941, 'html_load': 93, 'css_load': 860, 'js_size': 1504153, 'image_load': 437, 'page_size': 1969138, 'js_load': 1135, 'url': 'lifehack.org', 'text_size': 413525, 'main_html_size': 43412}
+{'image_size': 4238729, 'html_load': 3513, 'css_load': 641, 'js_size': 1575251, 'image_load': 4649, 'page_size': 6270144, 'js_load': 5028, 'url': 'lifehack.org', 'text_size': 452704, 'main_html_size': 43411}
+---
+{'image_size': 344327, 'html_load': 1050, 'css_load': 41, 'js_size': 68370, 'image_load': 1697, 'page_size': 471015, 'js_load': 196, 'url': 'informationisbeautiful.net', 'text_size': 45714, 'main_html_size': 48025}
+{'image_size': 346210, 'html_load': 36, 'css_load': 63, 'js_size': 68370, 'image_load': 262, 'page_size': 459727, 'js_load': 174, 'url': 'informationisbeautiful.net', 'text_size': 45147, 'main_html_size': 48025}
+---
+{'image_size': 1830830, 'html_load': 5654, 'css_load': 408, 'js_size': 522239, 'image_load': 6447, 'page_size': 2572842, 'js_load': 5160, 'url': 'educateinspirechange.org', 'text_size': 347592, 'main_html_size': 146323}
+{'image_size': 2169226, 'html_load': 3560, 'css_load': 838, 'js_size': 388107, 'image_load': 4979, 'page_size': 2809940, 'js_load': 1896, 'url': 'educateinspirechange.org', 'text_size': 247642, 'main_html_size': 145822}
+---
+{'image_size': 5801577, 'html_load': 9324, 'css_load': 1419, 'js_size': 1767253, 'image_load': 15267, 'page_size': 9206857, 'js_load': 14546, 'url': 'mentalfloss.com', 'text_size': 932076, 'main_html_size': 109912}
+{'image_size': 5645884, 'html_load': 20957, 'css_load': 985, 'js_size': 2026086, 'image_load': 30027, 'page_size': 16649867, 'js_load': 18377, 'url': 'mentalfloss.com', 'text_size': 1341401, 'main_html_size': 109912}
+---

@@ -1,0 +1,135 @@
+{'image_size': 498542, 'html_load': 11429, 'css_load': 1425, 'js_size': 1308545, 'image_load': 10323, 'page_size': 2840997, 'js_load': 11699, 'url': 'finance.yahoo.com', 'text_size': 620013, 'main_html_size': 649868}
+{'image_size': 1276070, 'html_load': 6432, 'css_load': 0, 'js_size': 527006, 'image_load': 4419, 'page_size': 4096526, 'js_load': 3529, 'url': 'finance.yahoo.com', 'text_size': 396421, 'main_html_size': 402172}
+---
+{'image_size': 822449, 'html_load': 1916, 'css_load': 722, 'js_size': 571405, 'image_load': 4981, 'page_size': 2084745, 'js_load': 5415, 'url': 'gizmodo.com', 'text_size': 448172, 'main_html_size': 490358}
+{'image_size': 295430, 'html_load': 2843, 'css_load': 87, 'js_size': 523262, 'image_load': 3820, 'page_size': 1183331, 'js_load': 4408, 'url': 'gizmodo.com', 'text_size': 277485, 'main_html_size': 490358}
+---
+{'image_size': 527384, 'html_load': 10783, 'css_load': 1664, 'js_size': 680634, 'image_load': 13776, 'page_size': 1612531, 'js_load': 18955, 'url': 'theverge.com', 'text_size': 673991, 'main_html_size': 260528}
+{'image_size': 501172, 'html_load': 9206, 'css_load': 151, 'js_size': 473801, 'image_load': 11125, 'page_size': 1284175, 'js_load': 13108, 'url': 'theverge.com', 'text_size': 496818, 'main_html_size': 260528}
+---
+{'image_size': 898443, 'html_load': 2587, 'css_load': 989, 'js_size': 284519, 'image_load': 6876, 'page_size': 1469924, 'js_load': 4273, 'url': 'gsmarena.com', 'text_size': 318262, 'main_html_size': 44278}
+{'image_size': 383917, 'html_load': 1709, 'css_load': 143, 'js_size': 110805, 'image_load': 1172, 'page_size': 547566, 'js_load': 270, 'url': 'gsmarena.com', 'text_size': 42581, 'main_html_size': 193}
+---
+{'image_size': 851274, 'html_load': 3727, 'css_load': 1628, 'js_size': 1337884, 'image_load': 9843, 'page_size': 2540369, 'js_load': 11039, 'url': 'engadget.com', 'text_size': 302809, 'main_html_size': 837010}
+{'image_size': 450924, 'html_load': 3901, 'css_load': 164, 'js_size': 1520662, 'image_load': 5063, 'page_size': 2314679, 'js_load': 6690, 'url': 'engadget.com', 'text_size': 341262, 'main_html_size': 365129}
+---
+{'image_size': 364483, 'html_load': 3042, 'css_load': 296, 'js_size': 395528, 'image_load': 2335, 'page_size': 819186, 'js_load': 1708, 'url': 'irs.gov', 'text_size': 451748, 'main_html_size': 87492}
+{'image_size': 364354, 'html_load': 702, 'css_load': 350, 'js_size': 298768, 'image_load': 654, 'page_size': 719461, 'js_load': 735, 'url': 'irs.gov', 'text_size': 353348, 'main_html_size': 87492}
+---
+{'image_size': 1828065, 'html_load': 9546, 'css_load': 2501, 'js_size': 1122723, 'image_load': 8910, 'page_size': 3676872, 'js_load': 9584, 'url': 'money.cnn.com', 'text_size': 742286, 'main_html_size': 83453}
+{'image_size': 2470086, 'html_load': 507, 'css_load': 78, 'js_size': 672610, 'image_load': 2261, 'page_size': 3347148, 'js_load': 3121, 'url': 'money.cnn.com', 'text_size': 410221, 'main_html_size': 13464}
+---
+{'image_size': 155809, 'html_load': 4643, 'css_load': 1281, 'js_size': 1599876, 'image_load': 7413, 'page_size': 2259576, 'js_load': 10941, 'url': 'cnbc.com', 'text_size': 1097922, 'main_html_size': 340500}
+{'image_size': 110657, 'html_load': 767, 'css_load': 378, 'js_size': 1058161, 'image_load': 1765, 'page_size': 1443828, 'js_load': 2155, 'url': 'cnbc.com', 'text_size': 499384, 'main_html_size': 198527}
+---
+{'image_size': 3005447, 'html_load': 866, 'css_load': 1267, 'js_size': 214799, 'image_load': 2730, 'page_size': 3433944, 'js_load': 3018, 'url': 'instructables.com', 'text_size': 190990, 'main_html_size': 70009}
+{'image_size': 523013, 'html_load': 109, 'css_load': 526, 'js_size': 282812, 'image_load': 953, 'page_size': 910607, 'js_load': 778, 'url': 'instructables.com', 'text_size': 269696, 'main_html_size': 26484}
+---
+{'image_size': 600155, 'html_load': 11622, 'css_load': 114, 'js_size': 621556, 'image_load': 19276, 'page_size': 1680378, 'js_load': 18933, 'url': 'tomshardware.com', 'text_size': 781184, 'main_html_size': 316564}
+{'image_size': 445300, 'html_load': 15934, 'css_load': 398, 'js_size': 1015879, 'image_load': 25488, 'page_size': 1995859, 'js_load': 14337, 'url': 'tomshardware.com', 'text_size': 918554, 'main_html_size': 308790}
+---
+{'image_size': 958912, 'html_load': 8502, 'css_load': 1446, 'js_size': 1416744, 'image_load': 8773, 'page_size': 2706814, 'js_load': 10823, 'url': 'allrecipes.com', 'text_size': 827245, 'main_html_size': 330394}
+{'image_size': 1043655, 'html_load': 5293, 'css_load': 469, 'js_size': 1365500, 'image_load': 9838, 'page_size': 5113713, 'js_load': 10285, 'url': 'allrecipes.com', 'text_size': 647063, 'main_html_size': 330369}
+---
+{'image_size': 641768, 'html_load': 2956, 'css_load': 1881, 'js_size': 594821, 'image_load': 7591, 'page_size': 1512751, 'js_load': 7739, 'url': 'marketwatch.com', 'text_size': 362115, 'main_html_size': 376492}
+{'image_size': 784953, 'html_load': 1617, 'css_load': 286, 'js_size': 747669, 'image_load': 6510, 'page_size': 1793561, 'js_load': 5806, 'url': 'marketwatch.com', 'text_size': 346010, 'main_html_size': 294311}
+---
+{'image_size': 625410, 'html_load': 5933, 'css_load': 155, 'js_size': 267461, 'image_load': 7634, 'page_size': 1082532, 'js_load': 6265, 'url': 'tomsguide.com', 'text_size': 78457, 'main_html_size': 173579}
+{'image_size': 1310820, 'html_load': 2039, 'css_load': 110, 'js_size': 259519, 'image_load': 3584, 'page_size': 1726396, 'js_load': 1828, 'url': 'tomsguide.com', 'text_size': 81638, 'main_html_size': 163438}
+---
+{'image_size': 1773266, 'html_load': 9177, 'css_load': 3096, 'js_size': 995093, 'image_load': 24325, 'page_size': 3363019, 'js_load': 17898, 'url': 'digitaltrends.com', 'text_size': 893645, 'main_html_size': 45947}
+{'image_size': 1441581, 'html_load': 442, 'css_load': 1018, 'js_size': 470613, 'image_load': 4369, 'page_size': 2394048, 'js_load': 5998, 'url': 'digitaltrends.com', 'text_size': 484161, 'main_html_size': 61089}
+---
+{'image_size': 553518, 'html_load': 4649, 'css_load': 349, 'js_size': 331688, 'image_load': 5204, 'page_size': 1683350, 'js_load': 4685, 'url': 'babycenter.com', 'text_size': 1058292, 'main_html_size': 403353}
+{'image_size': 177194, 'html_load': 4177, 'css_load': 275, 'js_size': 277731, 'image_load': 7291, 'page_size': 889848, 'js_load': 7003, 'url': 'babycenter.com', 'text_size': 673369, 'main_html_size': 195581}
+---
+{'image_size': 444269, 'html_load': 10253, 'css_load': 1042, 'js_size': 665584, 'image_load': 6790, 'page_size': 1381252, 'js_load': 11186, 'url': 'food.com', 'text_size': 388662, 'main_html_size': 94101}
+{'image_size': 148293, 'html_load': 53, 'css_load': 65, 'js_size': 160124, 'image_load': 196, 'page_size': 348183, 'js_load': 345, 'url': 'food.com', 'text_size': 36395, 'main_html_size': 94100}
+---
+{'image_size': 401330, 'html_load': 6155, 'css_load': 1835, 'js_size': 409250, 'image_load': 5228, 'page_size': 950993, 'js_load': 7887, 'url': 'fool.com', 'text_size': 223941, 'main_html_size': 116891}
+{'image_size': 396238, 'html_load': 958, 'css_load': 256, 'js_size': 260737, 'image_load': 1143, 'page_size': 787950, 'js_load': 1315, 'url': 'fool.com', 'text_size': 211835, 'main_html_size': 113419}
+---
+{'image_size': 1529618, 'html_load': 9386, 'css_load': 2493, 'js_size': 698608, 'image_load': 11464, 'page_size': 2494988, 'js_load': 9689, 'url': 'kbb.com', 'text_size': 812422, 'main_html_size': 144276}
+{'image_size': 902236, 'html_load': 3195, 'css_load': 1310, 'js_size': 281227, 'image_load': 4018, 'page_size': 1322548, 'js_load': 3136, 'url': 'kbb.com', 'text_size': 392916, 'main_html_size': 97641}
+---
+{'image_size': 5990609, 'html_load': 9166, 'css_load': 3083, 'js_size': 493217, 'image_load': 17628, 'page_size': 6964774, 'js_load': 18050, 'url': 'bgr.com', 'text_size': 626800, 'main_html_size': 144272}
+{'image_size': 311289, 'html_load': 582, 'css_load': 390, 'js_size': 308239, 'image_load': 2090, 'page_size': 806590, 'js_load': 1503, 'url': 'bgr.com', 'text_size': 262964, 'main_html_size': 94870}
+---
+{'image_size': 681522, 'html_load': 3988, 'css_load': 307, 'js_size': 296954, 'image_load': 2447, 'page_size': 1326227, 'js_load': 2485, 'url': 'mint.com', 'text_size': 451422, 'main_html_size': 80762}
+{'image_size': 681094, 'html_load': 1004, 'css_load': 416, 'js_size': 305575, 'image_load': 1159, 'page_size': 1334476, 'js_load': 939, 'url': 'mint.com', 'text_size': 451479, 'main_html_size': 80762}
+---
+{'image_size': 615293, 'html_load': 4619, 'css_load': 1807, 'js_size': 1990111, 'image_load': 3121, 'page_size': 2867190, 'js_load': 6664, 'url': 'hgtv.com', 'text_size': 769075, 'main_html_size': 454299}
+{'image_size': 95923, 'html_load': 263, 'css_load': 110, 'js_size': 66370, 'image_load': 213, 'page_size': 371775, 'js_load': 539, 'url': 'hgtv.com', 'text_size': 213362, 'main_html_size': 415341}
+---
+{'image_size': 358298, 'html_load': 2704, 'css_load': 52, 'js_size': 489211, 'image_load': 2861, 'page_size': 1279403, 'js_load': 5267, 'url': 'trustpilot.com', 'text_size': 108228, 'main_html_size': 51672}
+{'image_size': 103206, 'html_load': 473, 'css_load': 56, 'js_size': 498055, 'image_load': 293, 'page_size': 666768, 'js_load': 2879, 'url': 'trustpilot.com', 'text_size': 108214, 'main_html_size': 51672}
+---
+{'image_size': 1014383, 'html_load': 21620, 'css_load': 452, 'js_size': 1833437, 'image_load': 28600, 'page_size': 3584244, 'js_load': 21769, 'url': 'thekitchn.com', 'text_size': 1237649, 'main_html_size': 223734}
+{'image_size': 722334, 'html_load': 23605, 'css_load': 2195, 'js_size': 1840144, 'image_load': 33276, 'page_size': 8603187, 'js_load': 17548, 'url': 'thekitchn.com', 'text_size': 1519433, 'main_html_size': 223734}
+---
+{'image_size': 1543135, 'html_load': 48482, 'css_load': 10979, 'js_size': 2841617, 'image_load': 47527, 'page_size': 8301175, 'js_load': 46979, 'url': 'phonearena.com', 'text_size': 2407854, 'main_html_size': 198034}
+{'image_size': 698820, 'html_load': 18763, 'css_load': 774, 'js_size': 850641, 'image_load': 23398, 'page_size': 2220319, 'js_load': 17808, 'url': 'phonearena.com', 'text_size': 936889, 'main_html_size': 53807}
+---
+{'image_size': 907727, 'html_load': 4549, 'css_load': 1270, 'js_size': 948449, 'image_load': 5165, 'page_size': 1955011, 'js_load': 3954, 'url': 'travel.state.gov', 'text_size': 1007257, 'main_html_size': 310}
+{'image_size': 907385, 'html_load': 868, 'css_load': 3234, 'js_size': 941104, 'image_load': 2313, 'page_size': 1944628, 'js_load': 3212, 'url': 'travel.state.gov', 'text_size': 997216, 'main_html_size': 310}
+---
+{'image_size': 1929462, 'html_load': 6796, 'css_load': 104, 'js_size': 1211033, 'image_load': 15880, 'page_size': 3657137, 'js_load': 23873, 'url': 'trustedreviews.com', 'text_size': 810379, 'main_html_size': 90629}
+{'image_size': 279814, 'html_load': 2300, 'css_load': 458, 'js_size': 679068, 'image_load': 5643, 'page_size': 1124661, 'js_load': 7053, 'url': 'trustedreviews.com', 'text_size': 478968, 'main_html_size': 120798}
+---
+{'image_size': 4388475, 'html_load': 10805, 'css_load': 1666, 'js_size': 547117, 'image_load': 10904, 'page_size': 5192733, 'js_load': 10353, 'url': 'opendns.com', 'text_size': 185855, 'main_html_size': 63384}
+{'image_size': 2302075, 'html_load': 8555, 'css_load': 3558, 'js_size': 280722, 'image_load': 22783, 'page_size': 2820933, 'js_load': 14095, 'url': 'opendns.com', 'text_size': 169264, 'main_html_size': 62179}
+---
+{'image_size': 1723875, 'html_load': 28046, 'css_load': 2475, 'js_size': 607769, 'image_load': 40308, 'page_size': 2784378, 'js_load': 34954, 'url': 'bankrate.com', 'text_size': 241074, 'main_html_size': 109270}
+{'image_size': 1086067, 'html_load': 4036, 'css_load': 267, 'js_size': 964327, 'image_load': 7410, 'page_size': 2582951, 'js_load': 8144, 'url': 'bankrate.com', 'text_size': 580266, 'main_html_size': 104829}
+---
+{'image_size': 1261014, 'html_load': 3711, 'css_load': 673, 'js_size': 378316, 'image_load': 7267, 'page_size': 1938713, 'js_load': 5497, 'url': 'ehow.com', 'text_size': 423361, 'main_html_size': 109430}
+{'image_size': 1106074, 'html_load': 1775, 'css_load': 321, 'js_size': 322372, 'image_load': 3734, 'page_size': 1731865, 'js_load': 1855, 'url': 'ehow.com', 'text_size': 373876, 'main_html_size': 109950}
+---
+{'image_size': 2426922, 'html_load': 7117, 'css_load': 2718, 'js_size': 1849050, 'image_load': 10466, 'page_size': 4813688, 'js_load': 10133, 'url': 'lifehack.org', 'text_size': 594472, 'main_html_size': 43411}
+{'image_size': 2243522, 'html_load': 5464, 'css_load': 1145, 'js_size': 1609198, 'image_load': 8958, 'page_size': 4319155, 'js_load': 9226, 'url': 'lifehack.org', 'text_size': 435214, 'main_html_size': 43411}
+---
+{'image_size': 155336, 'html_load': 2154, 'css_load': 707, 'js_size': 685322, 'image_load': 3573, 'page_size': 1129699, 'js_load': 3570, 'url': 'consumerreports.org', 'text_size': 288905, 'main_html_size': 252}
+{'image_size': 219332, 'html_load': 1164, 'css_load': 596, 'js_size': 712530, 'image_load': 1763, 'page_size': 1223339, 'js_load': 2340, 'url': 'consumerreports.org', 'text_size': 291585, 'main_html_size': 252}
+---
+{'image_size': 333965, 'html_load': 1190, 'css_load': 325, 'js_size': 150794, 'image_load': 1731, 'page_size': 523886, 'js_load': 1277, 'url': 'ssa.gov', 'text_size': 39127, 'main_html_size': 24257}
+{'image_size': 333924, 'html_load': 353, 'css_load': 401, 'js_size': 147623, 'image_load': 507, 'page_size': 518570, 'js_load': 643, 'url': 'ssa.gov', 'text_size': 37023, 'main_html_size': 24257}
+---
+{'image_size': 2258308, 'html_load': 25380, 'css_load': 1748, 'js_size': 543560, 'image_load': 22411, 'page_size': 3086258, 'js_load': 21372, 'url': 'wonderhowto.com', 'text_size': 511645, 'main_html_size': 200947}
+{'image_size': 2297083, 'html_load': 17354, 'css_load': 156, 'js_size': 460970, 'image_load': 20721, 'page_size': 3335945, 'js_load': 16277, 'url': 'wonderhowto.com', 'text_size': 527817, 'main_html_size': 200943}
+---
+{'image_size': 20612, 'html_load': 705, 'css_load': 1359, 'js_size': 369063, 'image_load': 1657, 'page_size': 540403, 'js_load': 4707, 'url': 'bbb.org', 'text_size': 378458, 'main_html_size': 30678}
+{'image_size': 20527, 'html_load': 3513, 'css_load': 987, 'js_size': 363820, 'image_load': 1313, 'page_size': 535011, 'js_load': 2001, 'url': 'bbb.org', 'text_size': 378516, 'main_html_size': 30678}
+---
+{'image_size': 276779, 'html_load': 4617, 'css_load': 205, 'js_size': 963194, 'image_load': 9656, 'page_size': 2033021, 'js_load': 9421, 'url': 'epicurious.com', 'text_size': 415226, 'main_html_size': 190289}
+{'image_size': 195428, 'html_load': 1807, 'css_load': 231, 'js_size': 702609, 'image_load': 3026, 'page_size': 1259695, 'js_load': 2099, 'url': 'epicurious.com', 'text_size': 162231, 'main_html_size': 190289}
+---
+{'image_size': 795114, 'html_load': 12372, 'css_load': 492, 'js_size': 1277682, 'image_load': 14206, 'page_size': 2517697, 'js_load': 14641, 'url': 'apartmenttherapy.com', 'text_size': 788655, 'main_html_size': 255021}
+{'image_size': 715896, 'html_load': 4089, 'css_load': 505, 'js_size': 670113, 'image_load': 5259, 'page_size': 1629784, 'js_load': 4678, 'url': 'apartmenttherapy.com', 'text_size': 428670, 'main_html_size': 255021}
+---
+{'image_size': 423736, 'html_load': 435, 'css_load': 388, 'js_size': 146286, 'image_load': 1010, 'page_size': 943762, 'js_load': 1256, 'url': 'fixya.com', 'text_size': 427641, 'main_html_size': 109410}
+{'image_size': 88031, 'html_load': 233, 'css_load': 0, 'js_size': 75387, 'image_load': 2103, 'page_size': 233225, 'js_load': 388, 'url': 'fixya.com', 'text_size': 103148, 'main_html_size': 69589}
+---
+{'image_size': 625113, 'html_load': 1597, 'css_load': 4161, 'js_size': 521779, 'image_load': 2499, 'page_size': 1408214, 'js_load': 6058, 'url': 'border.gov.au', 'text_size': 168790, 'main_html_size': 83751}
+{'image_size': 625113, 'html_load': 1060, 'css_load': 1742, 'js_size': 521779, 'image_load': 2236, 'page_size': 1385193, 'js_load': 4797, 'url': 'border.gov.au', 'text_size': 166405, 'main_html_size': 83675}
+---
+{'image_size': 714459, 'html_load': 8119, 'css_load': 1217, 'js_size': 527074, 'image_load': 8966, 'page_size': 1440583, 'js_load': 9125, 'url': 'cafemom.com', 'text_size': 376196, 'main_html_size': 203212}
+{'image_size': 759400, 'html_load': 7036, 'css_load': 168, 'js_size': 184542, 'image_load': 7664, 'page_size': 1046717, 'js_load': 5677, 'url': 'cafemom.com', 'text_size': 148118, 'main_html_size': 203420}
+---
+{'image_size': 99164, 'html_load': 912, 'css_load': 733, 'js_size': 385024, 'image_load': 1840, 'page_size': 701672, 'js_load': 5611, 'url': 'goodhousekeeping.com', 'text_size': 291326, 'main_html_size': 182921}
+{'image_size': 287944, 'html_load': 9094, 'css_load': 2058, 'js_size': 752840, 'image_load': 10688, 'page_size': 1270834, 'js_load': 10734, 'url': 'goodhousekeeping.com', 'text_size': 414143, 'main_html_size': 182921}
+---
+{'image_size': 1688261, 'html_load': 16267, 'css_load': 1013, 'js_size': 843008, 'image_load': 19635, 'page_size': 2869216, 'js_load': 12119, 'url': 'bhg.com', 'text_size': 652546, 'main_html_size': 147130}
+{'image_size': 763702, 'html_load': 3417, 'css_load': 774, 'js_size': 669831, 'image_load': 5583, 'page_size': 1749516, 'js_load': 5100, 'url': 'bhg.com', 'text_size': 573578, 'main_html_size': 145199}
+---
+{'image_size': 511064, 'html_load': 8889, 'css_load': 2218, 'js_size': 978757, 'image_load': 15239, 'page_size': 1770716, 'js_load': 14825, 'url': 'realsimple.com', 'text_size': 509617, 'main_html_size': 235}
+{'image_size': 110589, 'html_load': 5419, 'css_load': 1355, 'js_size': 957945, 'image_load': 10196, 'page_size': 1349925, 'js_load': 8886, 'url': 'realsimple.com', 'text_size': 501147, 'main_html_size': 235}
+---
+{'image_size': 657821, 'html_load': 1435, 'css_load': 3389, 'js_size': 687632, 'image_load': 7091, 'page_size': 1542457, 'js_load': 9214, 'url': 'marthastewart.com', 'text_size': 370054, 'main_html_size': 120401}
+{'image_size': 539916, 'html_load': 1906, 'css_load': 1159, 'js_size': 669439, 'image_load': 6608, 'page_size': 1408004, 'js_load': 3462, 'url': 'marthastewart.com', 'text_size': 325626, 'main_html_size': 120401}
+---
+{'image_size': 187307, 'html_load': 4548, 'css_load': 1919, 'js_size': 205714, 'image_load': 3831, 'page_size': 430820, 'js_load': 5902, 'url': 'carfax.com', 'text_size': 123628, 'main_html_size': 26393}
+{'image_size': 182236, 'html_load': 1923, 'css_load': 521, 'js_size': 205718, 'image_load': 676, 'page_size': 446762, 'js_load': 1326, 'url': 'carfax.com', 'text_size': 124070, 'main_html_size': 26393}
+---
+{'image_size': 889127, 'html_load': 4456, 'css_load': 293, 'js_size': 1164780, 'image_load': 10815, 'page_size': 2855299, 'js_load': 7552, 'url': 'bonappetit.com', 'text_size': 672212, 'main_html_size': 1664058}
+{'image_size': 1069720, 'html_load': 2862, 'css_load': 586, 'js_size': 1042001, 'image_load': 6190, 'page_size': 2961423, 'js_load': 3165, 'url': 'bonappetit.com', 'text_size': 712216, 'main_html_size': 1664058}
+---

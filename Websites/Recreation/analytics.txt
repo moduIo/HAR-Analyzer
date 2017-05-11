@@ -1,0 +1,129 @@
+{'image_size': 316798, 'html_load': 978, 'css_load': 1666, 'js_size': 452096, 'image_load': 416, 'page_size': 1267617, 'js_load': 1039, 'url': 'booking.com', 'text_size': 282335, 'main_html_size': 494077}
+{'image_size': 215519, 'html_load': 6585, 'css_load': 2123, 'js_size': 223812, 'image_load': 8762, 'page_size': 995083, 'js_load': 5171, 'url': 'booking.com', 'text_size': 430364, 'main_html_size': 151716}
+---
+{'image_size': 162802, 'html_load': 1253, 'css_load': 1035, 'js_size': 374612, 'image_load': 2131, 'page_size': 644891, 'js_load': 1260, 'url': 'tripadvisor.com', 'text_size': 92377, 'main_html_size': 230644}
+{'image_size': 1143725, 'html_load': 878, 'css_load': 590, 'js_size': 243868, 'image_load': 1747, 'page_size': 1614017, 'js_load': 654, 'url': 'tripadvisor.com', 'text_size': 211324, 'main_html_size': 273066}
+---
+{'image_size': 392332, 'html_load': 10698, 'css_load': 1849, 'js_size': 516057, 'image_load': 10998, 'page_size': 1093254, 'js_load': 11245, 'url': 'expedia.com', 'text_size': 584207, 'main_html_size': 675500}
+{'image_size': 14042, 'html_load': 1512, 'css_load': 928, 'js_size': 235918, 'image_load': 390, 'page_size': 289334, 'js_load': 959, 'url': 'expedia.com', 'text_size': 275292, 'main_html_size': 10935}
+---
+{'image_size': 410394, 'html_load': 7298, 'css_load': 1448, 'js_size': 406575, 'image_load': 13797, 'page_size': 948714, 'js_load': 10589, 'url': 'hotels.com', 'text_size': 162910, 'main_html_size': 107766}
+{'image_size': 367270, 'html_load': 6341, 'css_load': 140, 'js_size': 250143, 'image_load': 8509, 'page_size': 743758, 'js_load': 3899, 'url': 'hotels.com', 'text_size': 93329, 'main_html_size': 100399}
+---
+{'image_size': 215735, 'html_load': 1688, 'css_load': 93, 'js_size': 285056, 'image_load': 2287, 'page_size': 707606, 'js_load': 2853, 'url': 'xe.com', 'text_size': 277439, 'main_html_size': 59660}
+{'image_size': 98474, 'html_load': 2421, 'css_load': 35, 'js_size': 385057, 'image_load': 2159, 'page_size': 742641, 'js_load': 2804, 'url': 'xe.com', 'text_size': 331614, 'main_html_size': 51523}
+---
+{'image_size': 381440, 'html_load': 714, 'css_load': 916, 'js_size': 182725, 'image_load': 296, 'page_size': 632213, 'js_load': 1024, 'url': 'kayak.com', 'text_size': 68048, 'main_html_size': 68507}
+{'image_size': 868183, 'html_load': 6449, 'css_load': 647, 'js_size': 784816, 'image_load': 8997, 'page_size': 1893543, 'js_load': 7682, 'url': 'kayak.com', 'text_size': 292024, 'main_html_size': 426042}
+---
+{'image_size': 271033, 'html_load': 3309, 'css_load': 349, 'js_size': 331059, 'image_load': 871, 'page_size': 759305, 'js_load': 4175, 'url': 'southwest.com', 'text_size': 146612, 'main_html_size': 463307}
+{'image_size': 29986, 'html_load': 1071, 'css_load': 114, 'js_size': 633643, 'image_load': 364, 'page_size': 708790, 'js_load': 772, 'url': 'southwest.com', 'text_size': 38155, 'main_html_size': 212}
+---
+{'image_size': 500678, 'html_load': 669, 'css_load': 194, 'js_size': 892306, 'image_load': 1520, 'page_size': 1898569, 'js_load': 3145, 'url': 'agoda.com', 'text_size': 269767, 'main_html_size': 227317}
+{'image_size': 312454, 'html_load': 2837, 'css_load': 195, 'js_size': 840512, 'image_load': 4742, 'page_size': 1566978, 'js_load': 3965, 'url': 'agoda.com', 'text_size': 202467, 'main_html_size': 87880}
+---
+{'image_size': 1116538, 'html_load': 8098, 'css_load': 1317, 'js_size': 702608, 'image_load': 7525, 'page_size': 2758042, 'js_load': 6125, 'url': 'uber.com', 'text_size': 1060472, 'main_html_size': 634430}
+{'image_size': 1115918, 'html_load': 1964, 'css_load': 342, 'js_size': 829689, 'image_load': 4454, 'page_size': 2891201, 'js_load': 5000, 'url': 'uber.com', 'text_size': 1155703, 'main_html_size': 634430}
+---
+{'image_size': 123282, 'html_load': 1111, 'css_load': 1315, 'js_size': 2863, 'image_load': 1013, 'page_size': 295720, 'js_load': 1665, 'url': 'zomato.com', 'text_size': 127043, 'main_html_size': 111159}
+{'image_size': 73535, 'html_load': 1348, 'css_load': 139, 'js_size': 412870, 'image_load': 483, 'page_size': 529989, 'js_load': 1872, 'url': 'zomato.com', 'text_size': 377579, 'main_html_size': 36433}
+---
+{'image_size': 142645, 'html_load': 1517, 'css_load': 2150, 'js_size': 456693, 'image_load': 4131, 'page_size': 906217, 'js_load': 5372, 'url': 'ryanair.com', 'text_size': 159851, 'main_html_size': 22696}
+{'image_size': 125378, 'html_load': 861, 'css_load': 1137, 'js_size': 455640, 'image_load': 3112, 'page_size': 874857, 'js_load': 1438, 'url': 'ryanair.com', 'text_size': 155296, 'main_html_size': 22696}
+---
+{'image_size': 464424, 'html_load': 1908, 'css_load': 164, 'js_size': 434036, 'image_load': 3444, 'page_size': 1089652, 'js_load': 5101, 'url': 'aa.com', 'text_size': 325890, 'main_html_size': 288949}
+{'image_size': 73529, 'html_load': 2415, 'css_load': 278, 'js_size': 434880, 'image_load': 1400, 'page_size': 701129, 'js_load': 2772, 'url': 'aa.com', 'text_size': 315017, 'main_html_size': 265165}
+---
+{'image_size': 253678, 'html_load': 7494, 'css_load': 1081, 'js_size': 713167, 'image_load': 8947, 'page_size': 1312489, 'js_load': 12164, 'url': 'cracked.com', 'text_size': 348126, 'main_html_size': 73216}
+{'image_size': 387817, 'html_load': 10941, 'css_load': 643, 'js_size': 613998, 'image_load': 16901, 'page_size': 1700541, 'js_load': 8367, 'url': 'cracked.com', 'text_size': 667312, 'main_html_size': 73289}
+---
+{'image_size': 2958462, 'html_load': 34486, 'css_load': 986, 'js_size': 589189, 'image_load': 63053, 'page_size': 5705493, 'js_load': 10841, 'url': 'jalopnik.com', 'text_size': 718844, 'main_html_size': 486149}
+{'image_size': 1341041, 'html_load': 8292, 'css_load': 166, 'js_size': 464945, 'image_load': 46973, 'page_size': 2174878, 'js_load': 7930, 'url': 'jalopnik.com', 'text_size': 270825, 'main_html_size': 486147}
+---
+{'image_size': 636937, 'html_load': 10269, 'css_load': 2165, 'js_size': 1957781, 'image_load': 10147, 'page_size': 3726749, 'js_load': 11275, 'url': 'priceline.com', 'text_size': 1198152, 'main_html_size': 344323}
+{'image_size': 4763, 'html_load': 7928, 'css_load': 975, 'js_size': 630737, 'image_load': 11003, 'page_size': 1467762, 'js_load': 4813, 'url': 'priceline.com', 'text_size': 882035, 'main_html_size': 119236}
+---
+{'image_size': 1793417, 'html_load': 3029, 'css_load': 578, 'js_size': 1362482, 'image_load': 8509, 'page_size': 3494258, 'js_load': 13453, 'url': 'marriott.com', 'text_size': 772028, 'main_html_size': 175617}
+{'image_size': 2019692, 'html_load': 627, 'css_load': 306, 'js_size': 1315111, 'image_load': 11891, 'page_size': 3636513, 'js_load': 7370, 'url': 'marriott.com', 'text_size': 723397, 'main_html_size': 175617}
+---
+{'image_size': 5215229, 'html_load': 8115, 'css_load': 3178, 'js_size': 758242, 'image_load': 15694, 'page_size': 6587953, 'js_load': 16173, 'url': 'timeout.com', 'text_size': 664085, 'main_html_size': 61888}
+{'image_size': 4369052, 'html_load': 3154, 'css_load': 1946, 'js_size': 467121, 'image_load': 5962, 'page_size': 5417912, 'js_load': 2666, 'url': 'timeout.com', 'text_size': 536128, 'main_html_size': 61888}
+---
+{'image_size': 7343233, 'html_load': 3457, 'css_load': 2417, 'js_size': 706534, 'image_load': 11701, 'page_size': 8541308, 'js_load': 14202, 'url': 'lonelyplanet.com', 'text_size': 264833, 'main_html_size': 249349}
+{'image_size': 7341533, 'html_load': 5114, 'css_load': 226, 'js_size': 585978, 'image_load': 14818, 'page_size': 8365033, 'js_load': 7629, 'url': 'lonelyplanet.com', 'text_size': 143747, 'main_html_size': 249349}
+---
+{'image_size': 1350004, 'html_load': 3289, 'css_load': 2525, 'js_size': 965772, 'image_load': 4224, 'page_size': 2702425, 'js_load': 8067, 'url': 'ana.co.jp', 'text_size': 399868, 'main_html_size': 66060}
+{'image_size': 594399, 'html_load': 5822, 'css_load': 6514, 'js_size': 514168, 'image_load': 14462, 'page_size': 1366547, 'js_load': 19067, 'url': 'ana.co.jp', 'text_size': 234392, 'main_html_size': 43032}
+---
+{'image_size': 1974806, 'html_load': 9413, 'css_load': 2018, 'js_size': 668872, 'image_load': 12059, 'page_size': 2869380, 'js_load': 12736, 'url': 'easyjet.com', 'text_size': 686853, 'main_html_size': 187230}
+{'image_size': 1065324, 'html_load': 1125, 'css_load': 487, 'js_size': 579757, 'image_load': 2241, 'page_size': 1866009, 'js_load': 1110, 'url': 'easyjet.com', 'text_size': 656871, 'main_html_size': 187231}
+---
+{'image_size': 778171, 'html_load': 13962, 'css_load': 3064, 'js_size': 1370411, 'image_load': 13577, 'page_size': 2646929, 'js_load': 13313, 'url': 'flightradar24.com', 'text_size': 729412, 'main_html_size': 183342}
+{'image_size': 395841, 'html_load': 1490, 'css_load': 1513, 'js_size': 1216893, 'image_load': 1506, 'page_size': 1909825, 'js_load': 3005, 'url': 'flightradar24.com', 'text_size': 524615, 'main_html_size': 179824}
+---
+{'image_size': 168, 'html_load': 906, 'css_load': 0, 'js_size': 50864, 'image_load': 164, 'page_size': 56726, 'js_load': 58, 'url': 'qatarairways.com', 'text_size': 5694, 'main_html_size': 14902}
+{'image_size': 1968977, 'html_load': 4802, 'css_load': 460, 'js_size': 336430, 'image_load': 3130, 'page_size': 2505780, 'js_load': 1868, 'url': 'qatarairways.com', 'text_size': 182019, 'main_html_size': 204934}
+---
+{'image_size': 363186, 'html_load': 4098, 'css_load': 714, 'js_size': 867037, 'image_load': 5449, 'page_size': 1405774, 'js_load': 11510, 'url': 'grubhub.com', 'text_size': 356642, 'main_html_size': 6243}
+{'image_size': 9004, 'html_load': 1227, 'css_load': 221, 'js_size': 671262, 'image_load': 3224, 'page_size': 857980, 'js_load': 3455, 'url': 'grubhub.com', 'text_size': 252990, 'main_html_size': 6243}
+---
+{'image_size': 812718, 'html_load': 4832, 'css_load': 1912, 'js_size': 1071485, 'image_load': 9392, 'page_size': 2401123, 'js_load': 15427, 'url': 'emirates.com', 'text_size': 879077, 'main_html_size': 520578}
+{'image_size': 17421, 'html_load': 4625, 'css_load': 355, 'js_size': 549914, 'image_load': 3910, 'page_size': 846702, 'js_load': 5138, 'url': 'emirates.com', 'text_size': 302780, 'main_html_size': 2834}
+---
+{'image_size': 397804, 'html_load': 1384, 'css_load': 1189, 'js_size': 1110050, 'image_load': 2859, 'page_size': 1746577, 'js_load': 3461, 'url': 'vrbo.com', 'text_size': 850728, 'main_html_size': 137268}
+{'image_size': 362453, 'html_load': 1838, 'css_load': 189, 'js_size': 612039, 'image_load': 5759, 'page_size': 1076900, 'js_load': 4018, 'url': 'vrbo.com', 'text_size': 92982, 'main_html_size': 74511}
+---
+{'image_size': 1860623, 'html_load': 86, 'css_load': 1690, 'js_size': 824944, 'image_load': 4397, 'page_size': 3174249, 'js_load': 6119, 'url': 'lego.com', 'text_size': 77657, 'main_html_size': 44091}
+{'image_size': 2182073, 'html_load': 30, 'css_load': 1352, 'js_size': 824944, 'image_load': 10011, 'page_size': 3495702, 'js_load': 9712, 'url': 'lego.com', 'text_size': 77657, 'main_html_size': 44091}
+---
+{'image_size': 1255509, 'html_load': 7643, 'css_load': 1614, 'js_size': 270432, 'image_load': 2541, 'page_size': 1780921, 'js_load': 5207, 'url': 'couchsurfing.com', 'text_size': 280693, 'main_html_size': 391469}
+{'image_size': 1255509, 'html_load': 1283, 'css_load': 505, 'js_size': 270432, 'image_load': 1693, 'page_size': 1774888, 'js_load': 749, 'url': 'couchsurfing.com', 'text_size': 280372, 'main_html_size': 391469}
+---
+{'image_size': 906150, 'html_load': 1361, 'css_load': 471, 'js_size': 908021, 'image_load': 1328, 'page_size': 1908293, 'js_load': 3224, 'url': 'travel.state.gov', 'text_size': 995199, 'main_html_size': 310}
+{'image_size': 70, 'html_load': 222, 'css_load': 0, 'js_size': 0, 'image_load': 52, 'page_size': 7536, 'js_load': 0, 'url': 'travel.state.gov', 'text_size': 7466, 'main_html_size': 310}
+---
+{'image_size': 467836, 'html_load': 11611, 'css_load': 1802, 'js_size': 668181, 'image_load': 13880, 'page_size': 1464230, 'js_load': 11595, 'url': 'orbitz.com', 'text_size': 657516, 'main_html_size': 214008}
+{'image_size': 5970, 'html_load': 1595, 'css_load': 225, 'js_size': 49, 'image_load': 4247, 'page_size': 45858, 'js_load': 120, 'url': 'orbitz.com', 'text_size': 39660, 'main_html_size': 10849}
+---
+{'image_size': 1668458, 'html_load': 11964, 'css_load': 2569, 'js_size': 658177, 'image_load': 13828, 'page_size': 2747468, 'js_load': 10717, 'url': 'jal.co.jp', 'text_size': 427371, 'main_html_size': 181811}
+{'image_size': 460776, 'html_load': 8479, 'css_load': 1580, 'js_size': 240265, 'image_load': 6338, 'page_size': 815140, 'js_load': 6191, 'url': 'jal.co.jp', 'text_size': 120065, 'main_html_size': 205}
+---
+{'image_size': 125975, 'html_load': 3724, 'css_load': 129, 'js_size': 432683, 'image_load': 12426, 'page_size': 776738, 'js_load': 11511, 'url': 'caranddriver.com', 'text_size': 127110, 'main_html_size': 101760}
+{'image_size': 1130833, 'html_load': 6358, 'css_load': 73, 'js_size': 633709, 'image_load': 10488, 'page_size': 2326723, 'js_load': 9325, 'url': 'caranddriver.com', 'text_size': 452910, 'main_html_size': 101760}
+---
+{'image_size': 630303, 'html_load': 7309, 'css_load': 453, 'js_size': 619344, 'image_load': 10270, 'page_size': 1498105, 'js_load': 14723, 'url': 'just-eat.co.uk', 'text_size': 545916, 'main_html_size': 24081}
+{'image_size': 153204, 'html_load': 4745, 'css_load': 2144, 'js_size': 373121, 'image_load': 1483, 'page_size': 667849, 'js_load': 2351, 'url': 'just-eat.co.uk', 'text_size': 409739, 'main_html_size': 24088}
+---
+{'image_size': 521008, 'html_load': 8235, 'css_load': 1957, 'js_size': 544972, 'image_load': 11361, 'page_size': 1193382, 'js_load': 12204, 'url': 'travelocity.com', 'text_size': 245892, 'main_html_size': 237503}
+{'image_size': 5558, 'html_load': 3721, 'css_load': 140, 'js_size': 49, 'image_load': 2722, 'page_size': 47513, 'js_load': 20, 'url': 'travelocity.com', 'text_size': 41726, 'main_html_size': 10745}
+---
+{'image_size': 441, 'html_load': 520, 'css_load': 0, 'js_size': 0, 'image_load': 643, 'page_size': 26083, 'js_load': 0, 'url': 'collegehumor.com', 'text_size': 25642, 'main_html_size': 100310}
+{'image_size': 0, 'html_load': 76, 'css_load': 0, 'js_size': 17491, 'image_load': 0, 'page_size': 43012, 'js_load': 137, 'url': 'collegehumor.com', 'text_size': 25521, 'main_html_size': 100310}
+---
+{'image_size': 498986, 'html_load': 7035, 'css_load': 6607, 'js_size': 897522, 'image_load': 10635, 'page_size': 1834717, 'js_load': 12605, 'url': 'homeaway.com', 'text_size': 295113, 'main_html_size': 176771}
+{'image_size': 217925, 'html_load': 2620, 'css_load': 190, 'js_size': 38065, 'image_load': 4147, 'page_size': 334016, 'js_load': 1436, 'url': 'homeaway.com', 'text_size': 67916, 'main_html_size': 96713}
+---
+{'image_size': 374853, 'html_load': 2025, 'css_load': 852, 'js_size': 248837, 'image_load': 3758, 'page_size': 909673, 'js_load': 2604, 'url': 'hostelworld.com', 'text_size': 64383, 'main_html_size': 93585}
+{'image_size': 223415, 'html_load': 3220, 'css_load': 202, 'js_size': 248837, 'image_load': 1367, 'page_size': 757542, 'js_load': 852, 'url': 'hostelworld.com', 'text_size': 64887, 'main_html_size': 94741}
+---
+{'image_size': 1870565, 'html_load': 1690, 'css_load': 3264, 'js_size': 637033, 'image_load': 7686, 'page_size': 2887914, 'js_load': 7526, 'url': 'ebaumsworld.com', 'text_size': 368859, 'main_html_size': 124421}
+{'image_size': 1154464, 'html_load': 1420, 'css_load': 1795, 'js_size': 434390, 'image_load': 3124, 'page_size': 2067773, 'js_load': 4440, 'url': 'ebaumsworld.com', 'text_size': 352764, 'main_html_size': 56406}
+---
+{'image_size': 498976, 'html_load': 9144, 'css_load': 616, 'js_size': 1142474, 'image_load': 13000, 'page_size': 2074339, 'js_load': 12391, 'url': 'ford.com', 'text_size': 471348, 'main_html_size': 386282}
+{'image_size': 352382, 'html_load': 4236, 'css_load': 380, 'js_size': 426987, 'image_load': 2332, 'page_size': 1223234, 'js_load': 4064, 'url': 'ford.com', 'text_size': 372070, 'main_html_size': 386282}
+---
+{'image_size': 624422, 'html_load': 2449, 'css_load': 1738, 'js_size': 428224, 'image_load': 3962, 'page_size': 1228202, 'js_load': 3566, 'url': 'skyscanner.com', 'text_size': 170645, 'main_html_size': 96626}
+{'image_size': 594875, 'html_load': 4113, 'css_load': 534, 'js_size': 468186, 'image_load': 10232, 'page_size': 1256745, 'js_load': 4122, 'url': 'skyscanner.com', 'text_size': 199924, 'main_html_size': 96799}
+---
+{'image_size': 439380, 'html_load': 5232, 'css_load': 714, 'js_size': 407350, 'image_load': 7288, 'page_size': 965913, 'js_load': 7377, 'url': 'britishairways.com', 'text_size': 277098, 'main_html_size': 239}
+{'image_size': 53886, 'html_load': 2544, 'css_load': 160, 'js_size': 265152, 'image_load': 491, 'page_size': 442199, 'js_load': 999, 'url': 'britishairways.com', 'text_size': 303317, 'main_html_size': 239}
+---
+{'image_size': 120391, 'html_load': 934, 'css_load': 714, 'js_size': 381115, 'image_load': 1825, 'page_size': 699896, 'js_load': 13189, 'url': 'popularmechanics.com', 'text_size': 296695, 'main_html_size': 208338}
+{'image_size': 1549859, 'html_load': 22226, 'css_load': 2153, 'js_size': 532326, 'image_load': 24350, 'page_size': 2574997, 'js_load': 17478, 'url': 'popularmechanics.com', 'text_size': 715334, 'main_html_size': 208338}
+---
+{'image_size': 143576, 'html_load': 2373, 'css_load': 2262, 'js_size': 901575, 'image_load': 6276, 'page_size': 1287223, 'js_load': 6948, 'url': 'theonion.com', 'text_size': 97865, 'main_html_size': 117002}
+{'image_size': 195885, 'html_load': 8814, 'css_load': 150, 'js_size': 864932, 'image_load': 7897, 'page_size': 1305553, 'js_load': 3940, 'url': 'theonion.com', 'text_size': 95666, 'main_html_size': 117002}
+---
+{'image_size': 660524, 'html_load': 1537, 'css_load': 900, 'js_size': 726132, 'image_load': 2949, 'page_size': 1582498, 'js_load': 6437, 'url': 'seamless.com', 'text_size': 288627, 'main_html_size': 6361}
+{'image_size': 382556, 'html_load': 568, 'css_load': 306, 'js_size': 727360, 'image_load': 2478, 'page_size': 1305043, 'js_load': 2336, 'url': 'seamless.com', 'text_size': 289426, 'main_html_size': 6361}
+---

@@ -1,0 +1,123 @@
+{'image_size': 1946418, 'html_load': 3265, 'css_load': 1907, 'js_size': 244499, 'image_load': 1565, 'page_size': 2265584, 'js_load': 1991, 'url': 'nih.gov', 'text_size': 50465, 'main_html_size': 228}
+{'image_size': 256837, 'html_load': 553, 'css_load': 295, 'js_size': 244499, 'image_load': 897, 'page_size': 551653, 'js_load': 764, 'url': 'nih.gov', 'text_size': 50317, 'main_html_size': 228}
+---
+{'image_size': 428080, 'html_load': 6817, 'css_load': 1059, 'js_size': 289123, 'image_load': 9140, 'page_size': 778032, 'js_load': 4881, 'url': 'myfitnesspal.com', 'text_size': 86276, 'main_html_size': 58751}
+{'image_size': 2851224, 'html_load': 200, 'css_load': 100, 'js_size': 37951, 'image_load': 2870, 'page_size': 4055754, 'js_load': 374, 'url': 'myfitnesspal.com', 'text_size': 10556, 'main_html_size': 21216}
+---
+{'image_size': 997440, 'html_load': 1209, 'css_load': 179, 'js_size': 272177, 'image_load': 896, 'page_size': 1326167, 'js_load': 2093, 'url': 'mayoclinic.org', 'text_size': 206097, 'main_html_size': 36200}
+{'image_size': 942852, 'html_load': 790, 'css_load': 74, 'js_size': 272119, 'image_load': 744, 'page_size': 1271529, 'js_load': 944, 'url': 'mayoclinic.org', 'text_size': 206047, 'main_html_size': 36213}
+---
+{'image_size': 114530, 'html_load': 2886, 'css_load': 154, 'js_size': 96205, 'image_load': 596, 'page_size': 299515, 'js_load': 4650, 'url': 'drugs.com', 'text_size': 92585, 'main_html_size': 90738}
+{'image_size': 177593, 'html_load': 1527, 'css_load': 204, 'js_size': 63066, 'image_load': 1555, 'page_size': 283502, 'js_load': 1137, 'url': 'drugs.com', 'text_size': 77037, 'main_html_size': 50449}
+---
+{'image_size': 1978358, 'html_load': 1339, 'css_load': 674, 'js_size': 232425, 'image_load': 2157, 'page_size': 2407002, 'js_load': 2724, 'url': 'medscape.com', 'text_size': 75062, 'main_html_size': 65946}
+{'image_size': 1983861, 'html_load': 1163, 'css_load': 260, 'js_size': 228633, 'image_load': 1777, 'page_size': 2339618, 'js_load': 2007, 'url': 'medscape.com', 'text_size': 62125, 'main_html_size': 64254}
+---
+{'image_size': 1189819, 'html_load': 419, 'css_load': 286, 'js_size': 166909, 'image_load': 1959, 'page_size': 1531453, 'js_load': 433, 'url': 'cdc.gov', 'text_size': 81060, 'main_html_size': 59588}
+{'image_size': 1189819, 'html_load': 124, 'css_load': 359, 'js_size': 166909, 'image_load': 1337, 'page_size': 1531455, 'js_load': 551, 'url': 'cdc.gov', 'text_size': 81060, 'main_html_size': 59588}
+---
+{'image_size': 964675, 'html_load': 1099, 'css_load': 1624, 'js_size': 266132, 'image_load': 1993, 'page_size': 2116004, 'js_load': 1331, 'url': 'psychologytoday.com', 'text_size': 852467, 'main_html_size': 240}
+{'image_size': 964675, 'html_load': 341, 'css_load': 714, 'js_size': 266132, 'image_load': 1367, 'page_size': 2116001, 'js_load': 773, 'url': 'psychologytoday.com', 'text_size': 852464, 'main_html_size': 240}
+---
+{'image_size': 2218649, 'html_load': 2864, 'css_load': 442, 'js_size': 676492, 'image_load': 5386, 'page_size': 3189539, 'js_load': 5107, 'url': 'who.int', 'text_size': 556044, 'main_html_size': 229}
+{'image_size': 792518, 'html_load': 942, 'css_load': 1348, 'js_size': 685520, 'image_load': 2002, 'page_size': 1789272, 'js_load': 2527, 'url': 'who.int', 'text_size': 572871, 'main_html_size': 229}
+---
+{'image_size': 1198549, 'html_load': 705, 'css_load': 219, 'js_size': 212914, 'image_load': 2764, 'page_size': 1459505, 'js_load': 3542, 'url': 'medlineplus.gov', 'text_size': 45981, 'main_html_size': 32240}
+{'image_size': 385737, 'html_load': 218, 'css_load': 280, 'js_size': 212915, 'image_load': 605, 'page_size': 644670, 'js_load': 786, 'url': 'medlineplus.gov', 'text_size': 45979, 'main_html_size': 32240}
+---
+{'image_size': 817100, 'html_load': 2313, 'css_load': 2959, 'js_size': 1186145, 'image_load': 3035, 'page_size': 2436960, 'js_load': 4152, 'url': 'nhs.uk', 'text_size': 544812, 'main_html_size': 72308}
+{'image_size': 355978, 'html_load': 102, 'css_load': 1036, 'js_size': 903410, 'image_load': 819, 'page_size': 1577398, 'js_load': 1139, 'url': 'nhs.uk', 'text_size': 383894, 'main_html_size': 72308}
+---
+{'image_size': 338606, 'html_load': 1515, 'css_load': 28, 'js_size': 10794, 'image_load': 1143, 'page_size': 413285, 'js_load': 740, 'url': 'emedicine.medscape.com', 'text_size': 63861, 'main_html_size': 238}
+{'image_size': 1178, 'html_load': 696, 'css_load': 32, 'js_size': 10254, 'image_load': 235, 'page_size': 59047, 'js_load': 295, 'url': 'emedicine.medscape.com', 'text_size': 48198, 'main_html_size': 238}
+---
+{'image_size': 1019135, 'html_load': 4389, 'css_load': 2453, 'js_size': 1187666, 'image_load': 12679, 'page_size': 3829795, 'js_load': 14839, 'url': 'menshealth.com', 'text_size': 407793, 'main_html_size': 115309}
+{'image_size': 1243643, 'html_load': 5624, 'css_load': 771, 'js_size': 977247, 'image_load': 9092, 'page_size': 3911489, 'js_load': 7311, 'url': 'menshealth.com', 'text_size': 422096, 'main_html_size': 115309}
+---
+{'image_size': 401152, 'html_load': 2171, 'css_load': 1029, 'js_size': 489398, 'image_load': 2010, 'page_size': 1199688, 'js_load': 3291, 'url': 'kaiserpermanente.org', 'text_size': 305440, 'main_html_size': 221}
+{'image_size': 48586, 'html_load': 2484, 'css_load': 0, 'js_size': 140075, 'image_load': 816, 'page_size': 211137, 'js_load': 492, 'url': 'kaiserpermanente.org', 'text_size': 45394, 'main_html_size': 229}
+---
+{'image_size': 603771, 'html_load': 1672, 'css_load': 614, 'js_size': 235132, 'image_load': 2924, 'page_size': 1045368, 'js_load': 4210, 'url': 'mercola.com', 'text_size': 60606, 'main_html_size': 65169}
+{'image_size': 603728, 'html_load': 570, 'css_load': 331, 'js_size': 235128, 'image_load': 874, 'page_size': 1042487, 'js_load': 1175, 'url': 'mercola.com', 'text_size': 57768, 'main_html_size': 65168}
+---
+{'image_size': 1128817, 'html_load': 1149, 'css_load': 418, 'js_size': 325322, 'image_load': 1916, 'page_size': 1769548, 'js_load': 2447, 'url': 'apa.org', 'text_size': 346423, 'main_html_size': 45905}
+{'image_size': 1128817, 'html_load': 989, 'css_load': 125, 'js_size': 323335, 'image_load': 1364, 'page_size': 1767559, 'js_load': 1323, 'url': 'apa.org', 'text_size': 335477, 'main_html_size': 45903}
+---
+{'image_size': 121269, 'html_load': 1172, 'css_load': 38, 'js_size': 319627, 'image_load': 1244, 'page_size': 466877, 'js_load': 2307, 'url': 'authoritynutrition.com', 'text_size': 91114, 'main_html_size': 64890}
+{'image_size': 254811, 'html_load': 392, 'css_load': 36, 'js_size': 301196, 'image_load': 461, 'page_size': 581253, 'js_load': 1163, 'url': 'authoritynutrition.com', 'text_size': 71948, 'main_html_size': 64890}
+---
+{'image_size': 698493, 'html_load': 556, 'css_load': 178, 'js_size': 128605, 'image_load': 1511, 'page_size': 913227, 'js_load': 2109, 'url': 'fda.gov', 'text_size': 42588, 'main_html_size': 48483}
+{'image_size': 558575, 'html_load': 187, 'css_load': 241, 'js_size': 128605, 'image_load': 1724, 'page_size': 773313, 'js_load': 671, 'url': 'fda.gov', 'text_size': 42592, 'main_html_size': 48483}
+---
+{'image_size': 589674, 'html_load': 7418, 'css_load': 178, 'js_size': 177267, 'image_load': 8770, 'page_size': 914710, 'js_load': 7727, 'url': 'studentdoctor.net', 'text_size': 262047, 'main_html_size': 74558}
+{'image_size': 378605, 'html_load': 1756, 'css_load': 207, 'js_size': 140746, 'image_load': 1007, 'page_size': 660198, 'js_load': 1754, 'url': 'studentdoctor.net', 'text_size': 230141, 'main_html_size': 74776}
+---
+{'image_size': 1068191, 'html_load': 8463, 'css_load': 1634, 'js_size': 621776, 'image_load': 10081, 'page_size': 3040802, 'js_load': 7946, 'url': 'mensfitness.com', 'text_size': 1310961, 'main_html_size': 158086}
+{'image_size': 1050377, 'html_load': 4440, 'css_load': 583, 'js_size': 411023, 'image_load': 5676, 'page_size': 4383518, 'js_load': 5597, 'url': 'mensfitness.com', 'text_size': 812856, 'main_html_size': 158086}
+---
+{'image_size': 256300, 'html_load': 4564, 'css_load': 2274, 'js_size': 610473, 'image_load': 5132, 'page_size': 2342790, 'js_load': 4466, 'url': 'bmj.com', 'text_size': 593230, 'main_html_size': 89379}
+{'image_size': 398941, 'html_load': 1942, 'css_load': 767, 'js_size': 528021, 'image_load': 2932, 'page_size': 2405243, 'js_load': 1132, 'url': 'bmj.com', 'text_size': 502972, 'main_html_size': 89379}
+---
+{'image_size': 1617977, 'html_load': 830, 'css_load': 59, 'js_size': 270724, 'image_load': 5502, 'page_size': 2353433, 'js_load': 4204, 'url': 'healthgrades.com', 'text_size': 630859, 'main_html_size': 329948}
+{'image_size': 1630366, 'html_load': 442, 'css_load': 101, 'js_size': 268054, 'image_load': 3169, 'page_size': 2353449, 'js_load': 1459, 'url': 'healthgrades.com', 'text_size': 631275, 'main_html_size': 330168}
+---
+{'image_size': 968710, 'html_load': 11116, 'css_load': 626, 'js_size': 948379, 'image_load': 19189, 'page_size': 2169070, 'js_load': 19345, 'url': 'health.com', 'text_size': 549089, 'main_html_size': 106626}
+{'image_size': 936465, 'html_load': 1513, 'css_load': 602, 'js_size': 674662, 'image_load': 2777, 'page_size': 1848827, 'js_load': 3368, 'url': 'health.com', 'text_size': 510955, 'main_html_size': 106621}
+---
+{'image_size': 305867, 'html_load': 3921, 'css_load': 392, 'js_size': 227818, 'image_load': 3201, 'page_size': 688581, 'js_load': 4587, 'url': 'patient.info', 'text_size': 126511, 'main_html_size': 24472}
+{'image_size': 310325, 'html_load': 4079, 'css_load': 327, 'js_size': 239058, 'image_load': 4032, 'page_size': 821865, 'js_load': 6935, 'url': 'patient.info', 'text_size': 227825, 'main_html_size': 24417}
+---
+{'image_size': 3104181, 'html_load': 7728, 'css_load': 1247, 'js_size': 288268, 'image_load': 4969, 'page_size': 4729098, 'js_load': 9660, 'url': 'sdsu.edu', 'text_size': 339992, 'main_html_size': 130032}
+{'image_size': 3103372, 'html_load': 2317, 'css_load': 876, 'js_size': 188417, 'image_load': 4163, 'page_size': 4518671, 'js_load': 1903, 'url': 'sdsu.edu', 'text_size': 202887, 'main_html_size': 130032}
+---
+{'image_size': 561265, 'html_load': 5669, 'css_load': 1437, 'js_size': 1099394, 'image_load': 9767, 'page_size': 1800621, 'js_load': 7246, 'url': 'weightwatchers.com', 'text_size': 358884, 'main_html_size': 96499}
+{'image_size': 561144, 'html_load': 811, 'css_load': 1007, 'js_size': 1093097, 'image_load': 1383, 'page_size': 1779383, 'js_load': 2539, 'url': 'weightwatchers.com', 'text_size': 345485, 'main_html_size': 96499}
+---
+{'image_size': 195029, 'html_load': 625, 'css_load': 243, 'js_size': 48683, 'image_load': 1577, 'page_size': 257035, 'js_load': 1289, 'url': 'kidshealth.org', 'text_size': 12738, 'main_html_size': 6592}
+{'image_size': 194661, 'html_load': 436, 'css_load': 562, 'js_size': 48683, 'image_load': 723, 'page_size': 256082, 'js_load': 1295, 'url': 'kidshealth.org', 'text_size': 12738, 'main_html_size': 6592}
+---
+{'image_size': 859669, 'html_load': 1345, 'css_load': 244, 'js_size': 216735, 'image_load': 4215, 'page_size': 1162034, 'js_load': 3366, 'url': 'prevention.com', 'text_size': 178379, 'main_html_size': 118994}
+{'image_size': 2217568, 'html_load': 12082, 'css_load': 477, 'js_size': 708473, 'image_load': 19393, 'page_size': 3111725, 'js_load': 9811, 'url': 'prevention.com', 'text_size': 289686, 'main_html_size': 118994}
+---
+{'image_size': 202505, 'html_load': 2352, 'css_load': 28, 'js_size': 795116, 'image_load': 9427, 'page_size': 1330326, 'js_load': 7270, 'url': 'self.com', 'text_size': 181441, 'main_html_size': 153468}
+{'image_size': 209690, 'html_load': 2914, 'css_load': 60, 'js_size': 675440, 'image_load': 4462, 'page_size': 1189707, 'js_load': 2369, 'url': 'self.com', 'text_size': 123498, 'main_html_size': 153468}
+---
+{'image_size': 1120613, 'html_load': 12227, 'css_load': 4336, 'js_size': 571787, 'image_load': 11331, 'page_size': 1994635, 'js_load': 10830, 'url': 'cancer.org', 'text_size': 737932, 'main_html_size': 104371}
+{'image_size': 1120144, 'html_load': 3324, 'css_load': 593, 'js_size': 670037, 'image_load': 2933, 'page_size': 2040051, 'js_load': 2776, 'url': 'cancer.org', 'text_size': 816266, 'main_html_size': 104371}
+---
+{'image_size': 221388, 'html_load': 3916, 'css_load': 876, 'js_size': 695783, 'image_load': 3896, 'page_size': 1107687, 'js_load': 6313, 'url': 'nejm.org', 'text_size': 414647, 'main_html_size': 71534}
+{'image_size': 111147, 'html_load': 1350, 'css_load': 807, 'js_size': 310264, 'image_load': 1081, 'page_size': 520826, 'js_load': 2452, 'url': 'nejm.org', 'text_size': 185357, 'main_html_size': 26966}
+---
+{'image_size': 2981559, 'html_load': 1947, 'css_load': 2244, 'js_size': 2193326, 'image_load': 10029, 'page_size': 5595492, 'js_load': 8829, 'url': 'zocdoc.com', 'text_size': 430881, 'main_html_size': 65618}
+{'image_size': 335786, 'html_load': 313, 'css_load': 433, 'js_size': 1982550, 'image_load': 1418, 'page_size': 2719877, 'js_load': 2674, 'url': 'zocdoc.com', 'text_size': 294697, 'main_html_size': 30588}
+---
+{'image_size': 380645, 'html_load': 2755, 'css_load': 1364, 'js_size': 579552, 'image_load': 3334, 'page_size': 1330524, 'js_load': 4883, 'url': 'aamc.org', 'text_size': 692534, 'main_html_size': 36526}
+{'image_size': 380690, 'html_load': 472, 'css_load': 506, 'js_size': 579019, 'image_load': 2069, 'page_size': 1329456, 'js_load': 2126, 'url': 'aamc.org', 'text_size': 691463, 'main_html_size': 36526}
+---
+{'image_size': 2199245, 'html_load': 6057, 'css_load': 1784, 'js_size': 363614, 'image_load': 9259, 'page_size': 3089839, 'js_load': 6914, 'url': 'heart.org', 'text_size': 540118, 'main_html_size': 238}
+{'image_size': 1853561, 'html_load': 1688, 'css_load': 853, 'js_size': 256659, 'image_load': 3098, 'page_size': 2567026, 'js_load': 971, 'url': 'heart.org', 'text_size': 415459, 'main_html_size': 238}
+---
+{'image_size': 401491, 'html_load': 1101, 'css_load': 344, 'js_size': 275438, 'image_load': 3252, 'page_size': 735822, 'js_load': 3580, 'url': 'fragrantica.com', 'text_size': 92178, 'main_html_size': 71878}
+{'image_size': 399088, 'html_load': 1124, 'css_load': 175, 'js_size': 60581, 'image_load': 2312, 'page_size': 490836, 'js_load': 806, 'url': 'fragrantica.com', 'text_size': 64509, 'main_html_size': 71878}
+---
+{'image_size': 299580, 'html_load': 837, 'css_load': 238, 'js_size': 130289, 'image_load': 745, 'page_size': 569297, 'js_load': 1831, 'url': 'top10homeremedies.com', 'text_size': 75021, 'main_html_size': 38407}
+{'image_size': 299537, 'html_load': 233, 'css_load': 202, 'js_size': 130232, 'image_load': 1562, 'page_size': 576072, 'js_load': 426, 'url': 'top10homeremedies.com', 'text_size': 81839, 'main_html_size': 38407}
+---
+{'image_size': 519554, 'html_load': 3150, 'css_load': 2698, 'js_size': 288887, 'image_load': 3087, 'page_size': 1150537, 'js_load': 4398, 'url': 'spine-health.com', 'text_size': 368362, 'main_html_size': 70711}
+{'image_size': 274811, 'html_load': 275, 'css_load': 348, 'js_size': 125541, 'image_load': 525, 'page_size': 563229, 'js_load': 530, 'url': 'spine-health.com', 'text_size': 188506, 'main_html_size': 68584}
+---
+{'image_size': 288288, 'html_load': 675, 'css_load': 1198, 'js_size': 249598, 'image_load': 3532, 'page_size': 670742, 'js_load': 1689, 'url': 'aafp.org', 'text_size': 322935, 'main_html_size': 237}
+{'image_size': 288323, 'html_load': 473, 'css_load': 488, 'js_size': 252087, 'image_load': 820, 'page_size': 673266, 'js_load': 787, 'url': 'aafp.org', 'text_size': 322935, 'main_html_size': 237}
+---
+{'image_size': 38564, 'html_load': 533, 'css_load': 1350, 'js_size': 203230, 'image_load': 1817, 'page_size': 294467, 'js_load': 1803, 'url': 'steadyhealth.com', 'text_size': 35385, 'main_html_size': 214609}
+{'image_size': 38529, 'html_load': 307, 'css_load': 129, 'js_size': 203230, 'image_load': 347, 'page_size': 294432, 'js_load': 367, 'url': 'steadyhealth.com', 'text_size': 35385, 'main_html_size': 214609}
+---
+{'image_size': 1578311, 'html_load': 2874, 'css_load': 165, 'js_size': 157996, 'image_load': 4983, 'page_size': 1850231, 'js_load': 1285, 'url': 'niddk.nih.gov', 'text_size': 50260, 'main_html_size': 52190}
+{'image_size': 1576302, 'html_load': 1243, 'css_load': 244, 'js_size': 161655, 'image_load': 1308, 'page_size': 1829898, 'js_load': 1580, 'url': 'niddk.nih.gov', 'text_size': 72665, 'main_html_size': 52190}
+---
+{'image_size': 1994414, 'html_load': 2422, 'css_load': 1559, 'js_size': 1332867, 'image_load': 2003, 'page_size': 3776441, 'js_load': 3389, 'url': 'cancer.gov', 'text_size': 850696, 'main_html_size': 78600}
+{'image_size': 1905789, 'html_load': 1126, 'css_load': 1419, 'js_size': 1336256, 'image_load': 2109, 'page_size': 3718546, 'js_load': 2630, 'url': 'cancer.gov', 'text_size': 868860, 'main_html_size': 78594}
+---
+{'image_size': 679409, 'html_load': 715, 'css_load': 824, 'js_size': 211375, 'image_load': 2892, 'page_size': 1184636, 'js_load': 2307, 'url': 'nimh.nih.gov', 'text_size': 334494, 'main_html_size': 57256}
+{'image_size': 679344, 'html_load': 251, 'css_load': 365, 'js_size': 180066, 'image_load': 1029, 'page_size': 1153262, 'js_load': 931, 'url': 'nimh.nih.gov', 'text_size': 303185, 'main_html_size': 57256}
+---

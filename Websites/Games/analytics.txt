@@ -1,0 +1,126 @@
+{'image_size': 2530931, 'html_load': 3293, 'css_load': 652, 'js_size': 170107, 'image_load': 5133, 'page_size': 4962371, 'js_load': 2566, 'url': 'battle.net', 'text_size': 34025, 'main_html_size': 205}
+{'image_size': 2530848, 'html_load': 1792, 'css_load': 608, 'js_size': 170107, 'image_load': 3555, 'page_size': 2915697, 'js_load': 1313, 'url': 'battle.net', 'text_size': 33681, 'main_html_size': 205}
+---
+{'image_size': 645460, 'html_load': 1299, 'css_load': 1395, 'js_size': 199797, 'image_load': 1140, 'page_size': 908719, 'js_load': 1386, 'url': 'roblox.com', 'text_size': 63819, 'main_html_size': 56831}
+{'image_size': 220143, 'html_load': 498, 'css_load': 261, 'js_size': 302848, 'image_load': 1479, 'page_size': 616932, 'js_load': 512, 'url': 'roblox.com', 'text_size': 52009, 'main_html_size': 37288}
+---
+{'image_size': 1257120, 'html_load': 11897, 'css_load': 3090, 'js_size': 463428, 'image_load': 14436, 'page_size': 2051952, 'js_load': 10760, 'url': 'gamefaqs.com', 'text_size': 437493, 'main_html_size': 43198}
+{'image_size': 792961, 'html_load': 10275, 'css_load': 1916, 'js_size': 533344, 'image_load': 22649, 'page_size': 1599271, 'js_load': 19987, 'url': 'gamefaqs.com', 'text_size': 414126, 'main_html_size': 42695}
+---
+{'image_size': 20155, 'html_load': 939, 'css_load': 2910, 'js_size': 186230, 'image_load': 1050, 'page_size': 266104, 'js_load': 2735, 'url': 'leagueoflegends.com', 'text_size': 102616, 'main_html_size': 327}
+{'image_size': 319772, 'html_load': 131, 'css_load': 507, 'js_size': 204277, 'image_load': 1019, 'page_size': 764563, 'js_load': 511, 'url': 'leagueoflegends.com', 'text_size': 111359, 'main_html_size': 327}
+---
+{'image_size': 1109135, 'html_load': 2189, 'css_load': 1964, 'js_size': 1030883, 'image_load': 5743, 'page_size': 3191960, 'js_load': 4975, 'url': 'wowhead.com', 'text_size': 517208, 'main_html_size': 121248}
+{'image_size': 1279515, 'html_load': 7675, 'css_load': 679, 'js_size': 871481, 'image_load': 11801, 'page_size': 2407404, 'js_load': 4503, 'url': 'wowhead.com', 'text_size': 445309, 'main_html_size': 121248}
+---
+{'image_size': 5725809, 'html_load': 6336, 'css_load': 426, 'js_size': 169279, 'image_load': 11374, 'page_size': 6033103, 'js_load': 6626, 'url': 'unity3d.com', 'text_size': 56611, 'main_html_size': 36943}
+{'image_size': 5725809, 'html_load': 1563, 'css_load': 916, 'js_size': 169445, 'image_load': 6388, 'page_size': 6033269, 'js_load': 5523, 'url': 'unity3d.com', 'text_size': 56777, 'main_html_size': 36943}
+---
+{'image_size': 705123, 'html_load': 3226, 'css_load': 99, 'js_size': 535427, 'image_load': 6180, 'page_size': 1550447, 'js_load': 10941, 'url': 'gamespot.com', 'text_size': 417013, 'main_html_size': 213014}
+{'image_size': 771635, 'html_load': 5964, 'css_load': 175, 'js_size': 786707, 'image_load': 10677, 'page_size': 1834144, 'js_load': 9606, 'url': 'gamespot.com', 'text_size': 370639, 'main_html_size': 207383}
+---
+{'image_size': 1306436, 'html_load': 6772, 'css_load': 2038, 'js_size': 921957, 'image_load': 19796, 'page_size': 2577942, 'js_load': 14878, 'url': 'runescape.wikia.com', 'text_size': 639985, 'main_html_size': 184854}
+{'image_size': 1043315, 'html_load': 8435, 'css_load': 298, 'js_size': 874322, 'image_load': 17466, 'page_size': 1998682, 'js_load': 10733, 'url': 'runescape.wikia.com', 'text_size': 297934, 'main_html_size': 86223}
+---
+{'image_size': 1387584, 'html_load': 19124, 'css_load': 2178, 'js_size': 581142, 'image_load': 20085, 'page_size': 2801398, 'js_load': 18708, 'url': 'icy-veins.com', 'text_size': 992556, 'main_html_size': 81494}
+{'image_size': 1041826, 'html_load': 13559, 'css_load': 1832, 'js_size': 251922, 'image_load': 10544, 'page_size': 1758637, 'js_load': 8089, 'url': 'icy-veins.com', 'text_size': 508028, 'main_html_size': 81494}
+---
+{'image_size': 1838638, 'html_load': 4650, 'css_load': 2514, 'js_size': 485970, 'image_load': 12779, 'page_size': 3703880, 'js_load': 14156, 'url': 'xbox.com', 'text_size': 301071, 'main_html_size': 163723}
+{'image_size': 1838208, 'html_load': 727, 'css_load': 590, 'js_size': 512183, 'image_load': 3289, 'page_size': 3698669, 'js_load': 2142, 'url': 'xbox.com', 'text_size': 303580, 'main_html_size': 164245}
+---
+{'image_size': 1455723, 'html_load': 7131, 'css_load': 0, 'js_size': 322259, 'image_load': 8080, 'page_size': 2784058, 'js_load': 10392, 'url': 'ea.com', 'text_size': 317916, 'main_html_size': 48817}
+{'image_size': 1455560, 'html_load': 3112, 'css_load': 0, 'js_size': 321972, 'image_load': 2481, 'page_size': 2779806, 'js_load': 3369, 'url': 'ea.com', 'text_size': 313827, 'main_html_size': 48817}
+---
+{'image_size': 216969, 'html_load': 1713, 'css_load': 792, 'js_size': 445537, 'image_load': 1392, 'page_size': 824145, 'js_load': 3374, 'url': 'chess.com', 'text_size': 92449, 'main_html_size': 112820}
+{'image_size': 245683, 'html_load': 265, 'css_load': 313, 'js_size': 453595, 'image_load': 2246, 'page_size': 866015, 'js_load': 1281, 'url': 'chess.com', 'text_size': 98367, 'main_html_size': 112820}
+---
+{'image_size': 928859, 'html_load': 2049, 'css_load': 248, 'js_size': 307470, 'image_load': 1708, 'page_size': 1644031, 'js_load': 1580, 'url': 'pcgamer.com', 'text_size': 352189, 'main_html_size': 255323}
+{'image_size': 997671, 'html_load': 3048, 'css_load': 135, 'js_size': 565893, 'image_load': 2963, 'page_size': 2142288, 'js_load': 3916, 'url': 'pcgamer.com', 'text_size': 613907, 'main_html_size': 255326}
+---
+{'image_size': 307253, 'html_load': 1504, 'css_load': 104, 'js_size': 109167, 'image_load': 957, 'page_size': 459065, 'js_load': 2467, 'url': 'teamliquid.net', 'text_size': 128698, 'main_html_size': 109490}
+{'image_size': 402535, 'html_load': 1658, 'css_load': 133, 'js_size': 153069, 'image_load': 3501, 'page_size': 598633, 'js_load': 3819, 'url': 'teamliquid.net', 'text_size': 162316, 'main_html_size': 109558}
+---
+{'image_size': 84, 'html_load': 881, 'css_load': 67, 'js_size': 4702, 'image_load': 2428, 'page_size': 23068, 'js_load': 375, 'url': 'nvidia.com', 'text_size': 20609, 'main_html_size': 42688}
+{'image_size': 160562, 'html_load': 349, 'css_load': 141, 'js_size': 68929, 'image_load': 975, 'page_size': 250855, 'js_load': 1016, 'url': 'nvidia.com', 'text_size': 21675, 'main_html_size': 9845}
+---
+{'image_size': 1389008, 'html_load': 4215, 'css_load': 1706, 'js_size': 769838, 'image_load': 8925, 'page_size': 2481827, 'js_load': 11508, 'url': 'miniclip.com', 'text_size': 817592, 'main_html_size': 83959}
+{'image_size': 352170, 'html_load': 1869, 'css_load': 151, 'js_size': 187729, 'image_load': 2006, 'page_size': 553452, 'js_load': 2553, 'url': 'miniclip.com', 'text_size': 99102, 'main_html_size': 24223}
+---
+{'image_size': 2570249, 'html_load': 1673, 'css_load': 508, 'js_size': 581438, 'image_load': 4027, 'page_size': 3904270, 'js_load': 2738, 'url': 'minecraft.net', 'text_size': 599105, 'main_html_size': 27942}
+{'image_size': 2364073, 'html_load': 327, 'css_load': 738, 'js_size': 581438, 'image_load': 2441, 'page_size': 3694607, 'js_load': 2414, 'url': 'minecraft.net', 'text_size': 598036, 'main_html_size': 27942}
+---
+{'image_size': 588013, 'html_load': 1771, 'css_load': 697, 'js_size': 413754, 'image_load': 2308, 'page_size': 1084320, 'js_load': 2975, 'url': 'nexusmods.com', 'text_size': 102635, 'main_html_size': 215}
+{'image_size': 682316, 'html_load': 7217, 'css_load': 1124, 'js_size': 643770, 'image_load': 7124, 'page_size': 3515974, 'js_load': 6065, 'url': 'nexusmods.com', 'text_size': 295142, 'main_html_size': 215}
+---
+{'image_size': 5496965, 'html_load': 4873, 'css_load': 241, 'js_size': 336872, 'image_load': 7483, 'page_size': 6320362, 'js_load': 3081, 'url': 'rockstargames.com', 'text_size': 210132, 'main_html_size': 22916}
+{'image_size': 6129547, 'html_load': 5478, 'css_load': 355, 'js_size': 336925, 'image_load': 7360, 'page_size': 6979440, 'js_load': 1438, 'url': 'rockstargames.com', 'text_size': 236118, 'main_html_size': 22916}
+---
+{'image_size': 2859, 'html_load': 242, 'css_load': 316, 'js_size': 322552, 'image_load': 126, 'page_size': 375564, 'js_load': 609, 'url': 'curse.com', 'text_size': 8057, 'main_html_size': 2469}
+{'image_size': 2859, 'html_load': 67, 'css_load': 221, 'js_size': 322495, 'image_load': 144, 'page_size': 335036, 'js_load': 304, 'url': 'curse.com', 'text_size': 7106, 'main_html_size': 2469}
+---
+{'image_size': 1447925, 'html_load': 7984, 'css_load': 1515, 'js_size': 1687091, 'image_load': 18029, 'page_size': 5904280, 'js_load': 17256, 'url': 'mmo-champion.com', 'text_size': 732324, 'main_html_size': 142681}
+{'image_size': 857822, 'html_load': 7134, 'css_load': 618, 'js_size': 886991, 'image_load': 8171, 'page_size': 2246480, 'js_load': 5127, 'url': 'mmo-champion.com', 'text_size': 544340, 'main_html_size': 142681}
+---
+{'image_size': 2346235, 'html_load': 7951, 'css_load': 1388, 'js_size': 534291, 'image_load': 9228, 'page_size': 3040438, 'js_load': 12115, 'url': 'nintendo.com', 'text_size': 266833, 'main_html_size': 58028}
+{'image_size': 2344441, 'html_load': 4097, 'css_load': 404, 'js_size': 625152, 'image_load': 3707, 'page_size': 3126416, 'js_load': 2170, 'url': 'nintendo.com', 'text_size': 264579, 'main_html_size': 58028}
+---
+{'image_size': 893093, 'html_load': 1290, 'css_load': 1391, 'js_size': 334666, 'image_load': 7047, 'page_size': 1291926, 'js_load': 4515, 'url': 'boardgamegeek.com', 'text_size': 74527, 'main_html_size': 183249}
+{'image_size': 961549, 'html_load': 482, 'css_load': 100, 'js_size': 319745, 'image_load': 3377, 'page_size': 1345453, 'js_load': 1084, 'url': 'boardgamegeek.com', 'text_size': 59596, 'main_html_size': 183249}
+---
+{'image_size': 806135, 'html_load': 9611, 'css_load': 1109, 'js_size': 569742, 'image_load': 9756, 'page_size': 2840598, 'js_load': 5002, 'url': 'eurogamer.net', 'text_size': 156175, 'main_html_size': 83402}
+{'image_size': 137665, 'html_load': 782, 'css_load': 536, 'js_size': 298337, 'image_load': 1622, 'page_size': 494373, 'js_load': 1543, 'url': 'eurogamer.net', 'text_size': 99383, 'main_html_size': 42112}
+---
+{'image_size': 996015, 'html_load': 35489, 'css_load': 2454, 'js_size': 879755, 'image_load': 31563, 'page_size': 10412374, 'js_load': 34519, 'url': 'sporcle.com', 'text_size': 319377, 'main_html_size': 126261}
+{'image_size': 262836, 'html_load': 7619, 'css_load': 141, 'js_size': 237430, 'image_load': 10947, 'page_size': 613464, 'js_load': 7151, 'url': 'sporcle.com', 'text_size': 194219, 'main_html_size': 206}
+---
+{'image_size': 4063999, 'html_load': 12486, 'css_load': 3335, 'js_size': 780759, 'image_load': 18371, 'page_size': 5500759, 'js_load': 15561, 'url': 'minecraftforum.net', 'text_size': 653434, 'main_html_size': 61634}
+{'image_size': 3885869, 'html_load': 14418, 'css_load': 69, 'js_size': 333101, 'image_load': 16740, 'page_size': 4404058, 'js_load': 10424, 'url': 'minecraftforum.net', 'text_size': 284834, 'main_html_size': 61631}
+---
+{'image_size': 109045, 'html_load': 9644, 'css_load': 1299, 'js_size': 1386, 'image_load': 8504, 'page_size': 137789, 'js_load': 2449, 'url': 'square-enix.com', 'text_size': 27358, 'main_html_size': 264}
+{'image_size': 108304, 'html_load': 364, 'css_load': 90, 'js_size': 1386, 'image_load': 500, 'page_size': 137986, 'js_load': 90, 'url': 'square-enix.com', 'text_size': 28296, 'main_html_size': 264}
+---
+{'image_size': 1305908, 'html_load': 701, 'css_load': 432, 'js_size': 72221, 'image_load': 3768, 'page_size': 1461498, 'js_load': 889, 'url': 'blizzard.com', 'text_size': 44690, 'main_html_size': 207}
+{'image_size': 1484294, 'html_load': 344, 'css_load': 1196, 'js_size': 72221, 'image_load': 1768, 'page_size': 1639884, 'js_load': 454, 'url': 'blizzard.com', 'text_size': 44690, 'main_html_size': 207}
+---
+{'image_size': 506049, 'html_load': 1694, 'css_load': 381, 'js_size': 98136, 'image_load': 775, 'page_size': 642061, 'js_load': 2230, 'url': 'freelotto.com', 'text_size': 133333, 'main_html_size': 39264}
+{'image_size': 506049, 'html_load': 434, 'css_load': 89, 'js_size': 99243, 'image_load': 653, 'page_size': 643521, 'js_load': 1189, 'url': 'freelotto.com', 'text_size': 133686, 'main_html_size': 39932}
+---
+{'image_size': 155954, 'html_load': 285, 'css_load': 47, 'js_size': 736, 'image_load': 742, 'page_size': 161793, 'js_load': 391, 'url': 'bulbagarden.net', 'text_size': 5103, 'main_html_size': 10403}
+{'image_size': 156260, 'html_load': 1133, 'css_load': 79, 'js_size': 4066, 'image_load': 537, 'page_size': 169317, 'js_load': 430, 'url': 'bulbagarden.net', 'text_size': 11089, 'main_html_size': 10403}
+---
+{'image_size': 931479, 'html_load': 2244, 'css_load': 1862, 'js_size': 483687, 'image_load': 4371, 'page_size': 1715036, 'js_load': 3125, 'url': 'bet-at-home.com', 'text_size': 302545, 'main_html_size': 98267}
+{'image_size': 60601, 'html_load': 1020, 'css_load': 842, 'js_size': 339670, 'image_load': 1151, 'page_size': 507228, 'js_load': 1261, 'url': 'bet-at-home.com', 'text_size': 105515, 'main_html_size': 120463}
+---
+{'image_size': 2825703, 'html_load': 6772, 'css_load': 899, 'js_size': 1231061, 'image_load': 14545, 'page_size': 4496277, 'js_load': 14162, 'url': 'giantbomb.com', 'text_size': 519916, 'main_html_size': 114787}
+{'image_size': 1886961, 'html_load': 6139, 'css_load': 494, 'js_size': 1388923, 'image_load': 12891, 'page_size': 3820647, 'js_load': 11602, 'url': 'giantbomb.com', 'text_size': 597822, 'main_html_size': 15488}
+---
+{'image_size': 4339, 'html_load': 1072, 'css_load': 448, 'js_size': 352798, 'image_load': 3004, 'page_size': 905387, 'js_load': 1970, 'url': 'bethesda.net', 'text_size': 563599, 'main_html_size': 2962}
+{'image_size': 2892, 'html_load': 466, 'css_load': 1290, 'js_size': 647315, 'image_load': 241, 'page_size': 1743838, 'js_load': 1527, 'url': 'bethesda.net', 'text_size': 1093631, 'main_html_size': 2962}
+---
+{'image_size': 4248265, 'html_load': 1636, 'css_load': 951, 'js_size': 114764, 'image_load': 6252, 'page_size': 5434021, 'js_load': 1463, 'url': 'itch.io', 'text_size': 824597, 'main_html_size': 66453}
+{'image_size': 4809226, 'html_load': 843, 'css_load': 926, 'js_size': 114029, 'image_load': 5476, 'page_size': 5746760, 'js_load': 183, 'url': 'itch.io', 'text_size': 823505, 'main_html_size': 66453}
+---
+{'image_size': 3163308, 'html_load': 6510, 'css_load': 1314, 'js_size': 349803, 'image_load': 8408, 'page_size': 4327987, 'js_load': 8572, 'url': 'worldoftanks.com', 'text_size': 277581, 'main_html_size': 107498}
+{'image_size': 3163897, 'html_load': 3103, 'css_load': 910, 'js_size': 350902, 'image_load': 6081, 'page_size': 4333561, 'js_load': 3791, 'url': 'worldoftanks.com', 'text_size': 281057, 'main_html_size': 107498}
+---
+{'image_size': 1624055, 'html_load': 8574, 'css_load': 905, 'js_size': 434758, 'image_load': 16328, 'page_size': 2396456, 'js_load': 9448, 'url': 'fallout.wikia.com', 'text_size': 504749, 'main_html_size': 240370}
+{'image_size': 3890778, 'html_load': 3085, 'css_load': 0, 'js_size': 207918, 'image_load': 8150, 'page_size': 4325420, 'js_load': 6977, 'url': 'fallout.wikia.com', 'text_size': 289073, 'main_html_size': 215323}
+---
+{'image_size': 1924753, 'html_load': 8388, 'css_load': 67, 'js_size': 566818, 'image_load': 11625, 'page_size': 2778330, 'js_load': 7976, 'url': 'planetminecraft.com', 'text_size': 568288, 'main_html_size': 125625}
+{'image_size': 1330463, 'html_load': 1073, 'css_load': 1068, 'js_size': 429761, 'image_load': 5657, 'page_size': 1823690, 'js_load': 7028, 'url': 'planetminecraft.com', 'text_size': 259655, 'main_html_size': 96694}
+---
+{'image_size': 2073338, 'html_load': 18772, 'css_load': 1903, 'js_size': 545972, 'image_load': 27346, 'page_size': 3378671, 'js_load': 16483, 'url': 'elderscrolls.wikia.com', 'text_size': 917051, 'main_html_size': 316447}
+{'image_size': 3536061, 'html_load': 2191, 'css_load': 0, 'js_size': 109823, 'image_load': 5609, 'page_size': 3693939, 'js_load': 4444, 'url': 'elderscrolls.wikia.com', 'text_size': 76744, 'main_html_size': 174916}
+---
+{'image_size': 652219, 'html_load': 8149, 'css_load': 3859, 'js_size': 357647, 'image_load': 9802, 'page_size': 1098480, 'js_load': 7052, 'url': 'betfair.com', 'text_size': 281209, 'main_html_size': 89148}
+{'image_size': 169225, 'html_load': 1708, 'css_load': 452, 'js_size': 177607, 'image_load': 571, 'page_size': 473210, 'js_load': 1181, 'url': 'betfair.com', 'text_size': 92993, 'main_html_size': 11153}
+---
+{'image_size': 41897, 'html_load': 9995, 'css_load': 19, 'js_size': 451879, 'image_load': 11741, 'page_size': 708371, 'js_load': 12702, 'url': 'wowprogress.com', 'text_size': 237547, 'main_html_size': 210780}
+{'image_size': 59997, 'html_load': 15528, 'css_load': 2938, 'js_size': 514871, 'image_load': 25099, 'page_size': 4760451, 'js_load': 9186, 'url': 'wowprogress.com', 'text_size': 130201, 'main_html_size': 210780}
+---
+{'image_size': 682974, 'html_load': 1365, 'css_load': 1652, 'js_size': 94687, 'image_load': 3303, 'page_size': 1010663, 'js_load': 148, 'url': 'vocabulary.com', 'text_size': 53821, 'main_html_size': 46584}
+{'image_size': 673601, 'html_load': 2344, 'css_load': 2018, 'js_size': 94687, 'image_load': 6239, 'page_size': 989075, 'js_load': 1215, 'url': 'vocabulary.com', 'text_size': 51989, 'main_html_size': 46584}
+---
+{'image_size': 4913768, 'html_load': 9660, 'css_load': 3530, 'js_size': 848403, 'image_load': 13334, 'page_size': 6325891, 'js_load': 17973, 'url': 'ubisoft.com', 'text_size': 430822, 'main_html_size': 125603}
+{'image_size': 2997367, 'html_load': 1892, 'css_load': 1516, 'js_size': 726283, 'image_load': 2793, 'page_size': 4235226, 'js_load': 3655, 'url': 'ubisoft.com', 'text_size': 378492, 'main_html_size': 124557}
+---

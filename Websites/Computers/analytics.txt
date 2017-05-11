@@ -1,0 +1,114 @@
+{'image_size': 51283, 'html_load': 1727, 'css_load': 0, 'js_size': 262853, 'image_load': 3937, 'page_size': 377224, 'js_load': 1245, 'url': 'google.com', 'text_size': 325941, 'main_html_size': 201089}
+{'image_size': 37277, 'html_load': 142, 'css_load': 0, 'js_size': 97819, 'image_load': 122, 'page_size': 139364, 'js_load': 178, 'url': 'google.com', 'text_size': 102087, 'main_html_size': 10698}
+---
+{'image_size': 666581, 'html_load': 4089, 'css_load': 739, 'js_size': 734885, 'image_load': 4432, 'page_size': 2024164, 'js_load': 2245, 'url': 'yahoo.com', 'text_size': 418978, 'main_html_size': 575403}
+{'image_size': 192703, 'html_load': 1243, 'css_load': 467, 'js_size': 505464, 'image_load': 762, 'page_size': 907591, 'js_load': 712, 'url': 'yahoo.com', 'text_size': 187192, 'main_html_size': 466697}
+---
+{'image_size': 24850, 'html_load': 1855, 'css_load': 683, 'js_size': 0, 'image_load': 88, 'page_size': 46243, 'js_load': 118, 'url': 'search.yahoo.com', 'text_size': 21393, 'main_html_size': 39584}
+{'image_size': 21692, 'html_load': 294, 'css_load': 0, 'js_size': 8608, 'image_load': 219, 'page_size': 52735, 'js_load': 524, 'url': 'search.yahoo.com', 'text_size': 22435, 'main_html_size': 56922}
+---
+{'image_size': 20817, 'html_load': 560, 'css_load': 2363, 'js_size': 105038, 'image_load': 366, 'page_size': 178194, 'js_load': 4886, 'url': 'linkedin.com', 'text_size': 124957, 'main_html_size': 43447}
+{'image_size': 1004, 'html_load': 477, 'css_load': 93, 'js_size': 46663, 'image_load': 105, 'page_size': 59800, 'js_load': 504, 'url': 'linkedin.com', 'text_size': 57767, 'main_html_size': 22099}
+---
+{'image_size': 587083, 'html_load': 556, 'css_load': 1264, 'js_size': 330749, 'image_load': 1639, 'page_size': 1008915, 'js_load': 1736, 'url': 'imgur.com', 'text_size': 77258, 'main_html_size': 132776}
+{'image_size': 580813, 'html_load': 379, 'css_load': 179, 'js_size': 360747, 'image_load': 1765, 'page_size': 1043605, 'js_load': 746, 'url': 'imgur.com', 'text_size': 118218, 'main_html_size': 132820}
+---
+{'image_size': 300706, 'html_load': 2770, 'css_load': 24, 'js_size': 70331, 'image_load': 2451, 'page_size': 468260, 'js_load': 2619, 'url': 'wordpress.com', 'text_size': 97955, 'main_html_size': 54755}
+{'image_size': 1241, 'html_load': 3724, 'css_load': 0, 'js_size': 4345, 'image_load': 5107, 'page_size': 66454, 'js_load': 1465, 'url': 'wordpress.com', 'text_size': 61979, 'main_html_size': 54755}
+---
+{'image_size': 286220, 'html_load': 4997, 'css_load': 856, 'js_size': 394198, 'image_load': 7256, 'page_size': 1015607, 'js_load': 6873, 'url': 'msn.com', 'text_size': 516587, 'main_html_size': 370015}
+{'image_size': 4165, 'html_load': 147, 'css_load': 0, 'js_size': 0, 'image_load': 175, 'page_size': 7585, 'js_load': 0, 'url': 'msn.com', 'text_size': 3420, 'main_html_size': 3420}
+---
+{'image_size': 6350924, 'html_load': 4932, 'css_load': 3135, 'js_size': 741359, 'image_load': 6581, 'page_size': 7333260, 'js_load': 3408, 'url': 'tumblr.com', 'text_size': 190624, 'main_html_size': 71807}
+{'image_size': 62641, 'html_load': 979, 'css_load': 1685, 'js_size': 703033, 'image_load': 864, 'page_size': 941767, 'js_load': 2560, 'url': 'tumblr.com', 'text_size': 176490, 'main_html_size': 32921}
+---
+{'image_size': 119274, 'html_load': 5840, 'css_load': 3684, 'js_size': 271376, 'image_load': 3183, 'page_size': 632296, 'js_load': 4185, 'url': 'microsoft.com', 'text_size': 225082, 'main_html_size': 93605}
+{'image_size': 120515, 'html_load': 3574, 'css_load': 511, 'js_size': 360147, 'image_load': 2171, 'page_size': 727186, 'js_load': 4510, 'url': 'microsoft.com', 'text_size': 256239, 'main_html_size': 93760}
+---
+{'image_size': 79722, 'html_load': 1653, 'css_load': 934, 'js_size': 111646, 'image_load': 2941, 'page_size': 316643, 'js_load': 3466, 'url': 'stackoverflow.com', 'text_size': 159226, 'main_html_size': 225244}
+{'image_size': 5684, 'html_load': 332, 'css_load': 187, 'js_size': 92473, 'image_load': 329, 'page_size': 222345, 'js_load': 1244, 'url': 'stackoverflow.com', 'text_size': 158193, 'main_html_size': 178061}
+---
+{'image_size': 86, 'html_load': 1845, 'css_load': 0, 'js_size': 0, 'image_load': 106, 'page_size': 93027, 'js_load': 0, 'url': 'office.com', 'text_size': 92941, 'main_html_size': 85471}
+{'image_size': 86, 'html_load': 519, 'css_load': 0, 'js_size': 0, 'image_load': 144, 'page_size': 84571, 'js_load': 0, 'url': 'office.com', 'text_size': 84485, 'main_html_size': 77015}
+---
+{'image_size': 83517, 'html_load': 1151, 'css_load': 1543, 'js_size': 536838, 'image_load': 360, 'page_size': 679139, 'js_load': 3395, 'url': 'pinterest.com', 'text_size': 42701, 'main_html_size': 89699}
+{'image_size': 26222, 'html_load': 677, 'css_load': 140, 'js_size': 621712, 'image_load': 315, 'page_size': 691649, 'js_load': 1106, 'url': 'pinterest.com', 'text_size': 29830, 'main_html_size': 84395}
+---
+{'image_size': 657039, 'html_load': 812, 'css_load': 1512, 'js_size': 255407, 'image_load': 2519, 'page_size': 1110383, 'js_load': 1468, 'url': 'github.com', 'text_size': 151611, 'main_html_size': 92875}
+{'image_size': 658440, 'html_load': 281, 'css_load': 173, 'js_size': 0, 'image_load': 522, 'page_size': 851498, 'js_load': 0, 'url': 'github.com', 'text_size': 151549, 'main_html_size': 93198}
+---
+{'image_size': 410422, 'html_load': 753, 'css_load': 0, 'js_size': 717249, 'image_load': 5420, 'page_size': 1245495, 'js_load': 3939, 'url': 'wikia.com', 'text_size': 149185, 'main_html_size': 298}
+{'image_size': 409998, 'html_load': 3507, 'css_load': 0, 'js_size': 717321, 'image_load': 5085, 'page_size': 1256224, 'js_load': 1388, 'url': 'wikia.com', 'text_size': 160338, 'main_html_size': 298}
+---
+{'image_size': 485595, 'html_load': 1547, 'css_load': 1495, 'js_size': 266400, 'image_load': 1298, 'page_size': 2150564, 'js_load': 2064, 'url': 'apple.com', 'text_size': 969564, 'main_html_size': 36966}
+{'image_size': 485595, 'html_load': 92, 'css_load': 349, 'js_size': 266400, 'image_load': 893, 'page_size': 1228349, 'js_load': 525, 'url': 'apple.com', 'text_size': 47349, 'main_html_size': 36966}
+---
+{'image_size': 328896, 'html_load': 1152, 'css_load': 0, 'js_size': 0, 'image_load': 1643, 'page_size': 362782, 'js_load': 0, 'url': 'paypal.com', 'text_size': 33886, 'main_html_size': 119912}
+{'image_size': 158303, 'html_load': 1707, 'css_load': 0, 'js_size': 1058, 'image_load': 2431, 'page_size': 194293, 'js_load': 1544, 'url': 'paypal.com', 'text_size': 35990, 'main_html_size': 120751}
+---
+{'image_size': 301293, 'html_load': 3117, 'css_load': 1307, 'js_size': 427995, 'image_load': 1418, 'page_size': 1531175, 'js_load': 3794, 'url': 'adobe.com', 'text_size': 257165, 'main_html_size': 102860}
+{'image_size': 301663, 'html_load': 3833, 'css_load': 593, 'js_size': 538550, 'image_load': 4129, 'page_size': 1647838, 'js_load': 4284, 'url': 'adobe.com', 'text_size': 286910, 'main_html_size': 102860}
+---
+{'image_size': 576441, 'html_load': 5065, 'css_load': 617, 'js_size': 883961, 'image_load': 6874, 'page_size': 1839675, 'js_load': 6283, 'url': 'dropbox.com', 'text_size': 111909, 'main_html_size': 138347}
+{'image_size': 574916, 'html_load': 738, 'css_load': 368, 'js_size': 786969, 'image_load': 926, 'page_size': 1730872, 'js_load': 1749, 'url': 'dropbox.com', 'text_size': 87284, 'main_html_size': 133374}
+---
+{'image_size': 3297370, 'html_load': 1212, 'css_load': 0, 'js_size': 297606, 'image_load': 3865, 'page_size': 3811259, 'js_load': 1855, 'url': 'plus.google.com', 'text_size': 488647, 'main_html_size': 717905}
+{'image_size': 21930, 'html_load': 9082, 'css_load': 52, 'js_size': 97961, 'image_load': 162, 'page_size': 222482, 'js_load': 205, 'url': 'plus.google.com', 'text_size': 146268, 'main_html_size': 8648}
+---
+{'image_size': 165750, 'html_load': 2246, 'css_load': 233, 'js_size': 103854, 'image_load': 402, 'page_size': 963651, 'js_load': 1193, 'url': 'mozilla.org', 'text_size': 496859, 'main_html_size': 122727}
+{'image_size': 165785, 'html_load': 189, 'css_load': 170, 'js_size': 103854, 'image_load': 276, 'page_size': 600794, 'js_load': 225, 'url': 'mozilla.org', 'text_size': 133967, 'main_html_size': 122727}
+---
+{'image_size': 19704, 'html_load': 818, 'css_load': 13, 'js_size': 81541, 'image_load': 658, 'page_size': 112449, 'js_load': 172, 'url': 'ask.com', 'text_size': 11204, 'main_html_size': 39924}
+{'image_size': 19704, 'html_load': 369, 'css_load': 17, 'js_size': 81541, 'image_load': 143, 'page_size': 112402, 'js_load': 201, 'url': 'ask.com', 'text_size': 11157, 'main_html_size': 39892}
+---
+{'image_size': 1002898, 'html_load': 5718, 'css_load': 1291, 'js_size': 348938, 'image_load': 4948, 'page_size': 1514857, 'js_load': 7734, 'url': 'vimeo.com', 'text_size': 435401, 'main_html_size': 226}
+{'image_size': 194332, 'html_load': 795, 'css_load': 163, 'js_size': 255754, 'image_load': 1175, 'page_size': 516213, 'js_load': 880, 'url': 'vimeo.com', 'text_size': 238906, 'main_html_size': 226}
+---
+{'image_size': 1375334, 'html_load': 783, 'css_load': 38, 'js_size': 14970, 'image_load': 1419, 'page_size': 1435312, 'js_load': 186, 'url': 'blogger.com', 'text_size': 37436, 'main_html_size': 94664}
+{'image_size': 1180486, 'html_load': 255, 'css_load': 35, 'js_size': 14970, 'image_load': 3893, 'page_size': 1216372, 'js_load': 104, 'url': 'blogger.com', 'text_size': 35886, 'main_html_size': 94664}
+---
+{'image_size': 173617, 'html_load': 5456, 'css_load': 1267, 'js_size': 334237, 'image_load': 6299, 'page_size': 715763, 'js_load': 6842, 'url': 'salesforce.com', 'text_size': 492990, 'main_html_size': 235}
+{'image_size': 8986, 'html_load': 2523, 'css_load': 414, 'js_size': 343187, 'image_load': 2436, 'page_size': 517111, 'js_load': 4490, 'url': 'salesforce.com', 'text_size': 450376, 'main_html_size': 235}
+---
+{'image_size': 245096, 'html_load': 1703, 'css_load': 2138, 'js_size': 158396, 'image_load': 2636, 'page_size': 579449, 'js_load': 3059, 'url': 'slideshare.net', 'text_size': 104526, 'main_html_size': 185795}
+{'image_size': 136562, 'html_load': 502, 'css_load': 271, 'js_size': 146657, 'image_load': 1301, 'page_size': 424792, 'js_load': 331, 'url': 'slideshare.net', 'text_size': 69800, 'main_html_size': 184042}
+---
+{'image_size': 130741, 'html_load': 1440, 'css_load': 1050, 'js_size': 217630, 'image_load': 1230, 'page_size': 488737, 'js_load': 2733, 'url': 'mediafire.com', 'text_size': 174613, 'main_html_size': 38648}
+{'image_size': 130686, 'html_load': 840, 'css_load': 239, 'js_size': 217649, 'image_load': 894, 'page_size': 487953, 'js_load': 388, 'url': 'mediafire.com', 'text_size': 173884, 'main_html_size': 38662}
+---
+{'image_size': 650462, 'html_load': 1083, 'css_load': 2630, 'js_size': 159308, 'image_load': 895, 'page_size': 970106, 'js_load': 3022, 'url': 'cnet.com', 'text_size': 90205, 'main_html_size': 199812}
+{'image_size': 666364, 'html_load': 25726, 'css_load': 3403, 'js_size': 926785, 'image_load': 33768, 'page_size': 2348526, 'js_load': 32248, 'url': 'cnet.com', 'text_size': 1123416, 'main_html_size': 139649}
+---
+{'image_size': 118793, 'html_load': 918, 'css_load': 1748, 'js_size': 0, 'image_load': 1724, 'page_size': 321721, 'js_load': 0, 'url': 'godaddy.com', 'text_size': 149416, 'main_html_size': 549587}
+{'image_size': 225713, 'html_load': 783, 'css_load': 122, 'js_size': 117286, 'image_load': 538, 'page_size': 545870, 'js_load': 396, 'url': 'godaddy.com', 'text_size': 218320, 'main_html_size': 549653}
+---
+{'image_size': 2571911, 'html_load': 11077, 'css_load': 1838, 'js_size': 1577443, 'image_load': 16423, 'page_size': 4968488, 'js_load': 20606, 'url': 'huffingtonpost.com', 'text_size': 1399955, 'main_html_size': 182931}
+{'image_size': 2395925, 'html_load': 1238, 'css_load': 570, 'js_size': 647700, 'image_load': 3786, 'page_size': 3631661, 'js_load': 4741, 'url': 'huffingtonpost.com', 'text_size': 854694, 'main_html_size': 182931}
+---
+{'image_size': 38104, 'html_load': 7560, 'css_load': 1151, 'js_size': 567524, 'image_load': 9287, 'page_size': 1030044, 'js_load': 8505, 'url': 'support.microsoft.com', 'text_size': 621743, 'main_html_size': 41665}
+{'image_size': 36047, 'html_load': 1901, 'css_load': 746, 'js_size': 515248, 'image_load': 1805, 'page_size': 975047, 'js_load': 1718, 'url': 'support.microsoft.com', 'text_size': 590275, 'main_html_size': 1313}
+---
+{'image_size': 28129, 'html_load': 1288, 'css_load': 0, 'js_size': 198493, 'image_load': 936, 'page_size': 233351, 'js_load': 320, 'url': 'myway.com', 'text_size': 5999, 'main_html_size': 305}
+{'image_size': 43020, 'html_load': 207, 'css_load': 0, 'js_size': 199339, 'image_load': 378, 'page_size': 247537, 'js_load': 449, 'url': 'myway.com', 'text_size': 4677, 'main_html_size': 305}
+---
+{'image_size': 680205, 'html_load': 2255, 'css_load': 651, 'js_size': 78207, 'image_load': 1666, 'page_size': 885189, 'js_load': 3876, 'url': 'trello.com', 'text_size': 47817, 'main_html_size': 70225}
+{'image_size': 682299, 'html_load': 282, 'css_load': 223, 'js_size': 119626, 'image_load': 3600, 'page_size': 929141, 'js_load': 3520, 'url': 'trello.com', 'text_size': 46753, 'main_html_size': 70222}
+---
+{'image_size': 3736, 'html_load': 1190, 'css_load': 0, 'js_size': 100730, 'image_load': 1559, 'page_size': 106894, 'js_load': 680, 'url': 'mega.nz', 'text_size': 59390, 'main_html_size': 2036}
+{'image_size': 3691, 'html_load': 524, 'css_load': 0, 'js_size': 1222299, 'image_load': 1199, 'page_size': 1447537, 'js_load': 1774, 'url': 'mega.nz', 'text_size': 59390, 'main_html_size': 2036}
+---
+{'image_size': 9881, 'html_load': 4439, 'css_load': 1025, 'js_size': 3993666, 'image_load': 7555, 'page_size': 5062695, 'js_load': 10329, 'url': 'livejournal.com', 'text_size': 870362, 'main_html_size': 166966}
+{'image_size': 5814, 'html_load': 3501, 'css_load': 808, 'js_size': 51451, 'image_load': 4183, 'page_size': 223289, 'js_load': 1775, 'url': 'livejournal.com', 'text_size': 166422, 'main_html_size': 166969}
+---
+{'image_size': 472772, 'html_load': 2250, 'css_load': 290, 'js_size': 933889, 'image_load': 4419, 'page_size': 1804908, 'js_load': 2180, 'url': 'archive.org', 'text_size': 370287, 'main_html_size': 132625}
+{'image_size': 464575, 'html_load': 1328, 'css_load': 274, 'js_size': 933889, 'image_load': 1226, 'page_size': 1796711, 'js_load': 1711, 'url': 'archive.org', 'text_size': 370287, 'main_html_size': 132625}
+---
+{'image_size': 325736, 'html_load': 401, 'css_load': 386, 'js_size': 271451, 'image_load': 369, 'page_size': 692860, 'js_load': 1162, 'url': 'intuit.com', 'text_size': 96007, 'main_html_size': 61351}
+{'image_size': 910759, 'html_load': 4479, 'css_load': 405, 'js_size': 387262, 'image_load': 2578, 'page_size': 1406932, 'js_load': 2018, 'url': 'intuit.com', 'text_size': 108893, 'main_html_size': 61351}
+---
+{'image_size': 540018, 'html_load': 2719, 'css_load': 1552, 'js_size': 308445, 'image_load': 7273, 'page_size': 893014, 'js_load': 5865, 'url': 'msdn.microsoft.com', 'text_size': 44207, 'main_html_size': 43820}
+{'image_size': 476826, 'html_load': 1378, 'css_load': 367, 'js_size': 235398, 'image_load': 1769, 'page_size': 743410, 'js_load': 2536, 'url': 'msdn.microsoft.com', 'text_size': 30663, 'main_html_size': 43830}
+---
+{'image_size': 10810, 'html_load': 1367, 'css_load': 1204, 'js_size': 189307, 'image_load': 1246, 'page_size': 444100, 'js_load': 1968, 'url': 'feedly.com', 'text_size': 245185, 'main_html_size': 14356}
+{'image_size': 36374, 'html_load': 687, 'css_load': 1388, 'js_size': 964882, 'image_load': 397, 'page_size': 1249002, 'js_load': 1869, 'url': 'feedly.com', 'text_size': 247746, 'main_html_size': 14356}
+---

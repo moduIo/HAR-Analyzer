@@ -1,0 +1,102 @@
+{'image_size': 932723, 'html_load': 1410, 'css_load': 1200, 'js_size': 6771, 'image_load': 1867, 'page_size': 1127997, 'js_load': 1124, 'url': 'netflix.com', 'text_size': 153719, 'main_html_size': 44226}
+{'image_size': 223895, 'html_load': 1110, 'css_load': 162, 'js_size': 6771, 'image_load': 347, 'page_size': 337211, 'js_load': 1128, 'url': 'netflix.com', 'text_size': 106545, 'main_html_size': 44240}
+---
+{'image_size': 3772086, 'html_load': 2226, 'css_load': 653, 'js_size': 209643, 'image_load': 6298, 'page_size': 4102410, 'js_load': 2205, 'url': 'amazon.co.uk', 'text_size': 119287, 'main_html_size': 233}
+{'image_size': 100593, 'html_load': 1117, 'css_load': 214, 'js_size': 138742, 'image_load': 929, 'page_size': 336834, 'js_load': 222, 'url': 'amazon.co.uk', 'text_size': 97499, 'main_html_size': 233}
+---
+{'image_size': 964843, 'html_load': 1171, 'css_load': 276, 'js_size': 272812, 'image_load': 4474, 'page_size': 1485561, 'js_load': 4204, 'url': 'etsy.com', 'text_size': 144774, 'main_html_size': 188960}
+{'image_size': 566286, 'html_load': 318, 'css_load': 218, 'js_size': 277592, 'image_load': 1989, 'page_size': 1038447, 'js_load': 2810, 'url': 'etsy.com', 'text_size': 90874, 'main_html_size': 155821}
+---
+{'image_size': 608875, 'html_load': 5242, 'css_load': 2780, 'js_size': 2954616, 'image_load': 9265, 'page_size': 3920441, 'js_load': 12388, 'url': 'walmart.com', 'text_size': 843597, 'main_html_size': 401306}
+{'image_size': 800285, 'html_load': 2004, 'css_load': 292, 'js_size': 692043, 'image_load': 4710, 'page_size': 1870288, 'js_load': 1307, 'url': 'walmart.com', 'text_size': 829645, 'main_html_size': 325036}
+---
+{'image_size': 166758, 'html_load': 479, 'css_load': 17, 'js_size': 18255, 'image_load': 166, 'page_size': 198649, 'js_load': 273, 'url': 'ikea.com', 'text_size': 21626, 'main_html_size': 50404}
+{'image_size': 165907, 'html_load': 58, 'css_load': 29, 'js_size': 40150, 'image_load': 235, 'page_size': 219693, 'js_load': 153, 'url': 'ikea.com', 'text_size': 43521, 'main_html_size': 50404}
+---
+{'image_size': 1203024, 'html_load': 4358, 'css_load': 876, 'js_size': 1488340, 'image_load': 3044, 'page_size': 2881791, 'js_load': 6073, 'url': 'bestbuy.com', 'text_size': 289408, 'main_html_size': 215686}
+{'image_size': 652579, 'html_load': 5129, 'css_load': 449, 'js_size': 1434497, 'image_load': 8139, 'page_size': 2292196, 'js_load': 4912, 'url': 'bestbuy.com', 'text_size': 327226, 'main_html_size': 241342}
+---
+{'image_size': 690852, 'html_load': 1193, 'css_load': 108, 'js_size': 136702, 'image_load': 1136, 'page_size': 1021117, 'js_load': 3071, 'url': 'homedepot.com', 'text_size': 151105, 'main_html_size': 118144}
+{'image_size': 774195, 'html_load': 1887, 'css_load': 89, 'js_size': 788628, 'image_load': 1002, 'page_size': 1730110, 'js_load': 2674, 'url': 'homedepot.com', 'text_size': 96329, 'main_html_size': 32064}
+---
+{'image_size': 661124, 'html_load': 10319, 'css_load': 1191, 'js_size': 1984608, 'image_load': 11550, 'page_size': 3026586, 'js_load': 12972, 'url': 'target.com', 'text_size': 411842, 'main_html_size': 64059}
+{'image_size': 344, 'html_load': 172, 'css_load': 84, 'js_size': 528628, 'image_load': 119, 'page_size': 631544, 'js_load': 714, 'url': 'target.com', 'text_size': 84459, 'main_html_size': 62907}
+---
+{'image_size': 547495, 'html_load': 1612, 'css_load': 1292, 'js_size': 326920, 'image_load': 1782, 'page_size': 928611, 'js_load': 4850, 'url': 'wiley.com', 'text_size': 226060, 'main_html_size': 214}
+{'image_size': 516875, 'html_load': 1418, 'css_load': 91, 'js_size': 331275, 'image_load': 833, 'page_size': 885439, 'js_load': 998, 'url': 'wiley.com', 'text_size': 221957, 'main_html_size': 214}
+---
+{'image_size': 28081, 'html_load': 1481, 'css_load': 727, 'js_size': 124492, 'image_load': 113, 'page_size': 181734, 'js_load': 1382, 'url': 'nike.com', 'text_size': 29161, 'main_html_size': 63449}
+{'image_size': 35325, 'html_load': 252, 'css_load': 316, 'js_size': 137835, 'image_load': 500, 'page_size': 278203, 'js_load': 420, 'url': 'nike.com', 'text_size': 105043, 'main_html_size': 63449}
+---
+{'image_size': 1038056, 'html_load': 7469, 'css_load': 1056, 'js_size': 937141, 'image_load': 4672, 'page_size': 2941687, 'js_load': 4762, 'url': 'cambridge.org', 'text_size': 603305, 'main_html_size': 46208}
+{'image_size': 533280, 'html_load': 3192, 'css_load': 259, 'js_size': 451252, 'image_load': 1696, 'page_size': 1751846, 'js_load': 1914, 'url': 'cambridge.org', 'text_size': 534960, 'main_html_size': 46537}
+---
+{'image_size': 86454, 'html_load': 757, 'css_load': 1797, 'js_size': 235218, 'image_load': 2522, 'page_size': 473745, 'js_load': 1930, 'url': 'groupon.com', 'text_size': 74632, 'main_html_size': 280823}
+{'image_size': 901867, 'html_load': 661, 'css_load': 203, 'js_size': 276109, 'image_load': 3237, 'page_size': 1259364, 'js_load': 2512, 'url': 'groupon.com', 'text_size': 48742, 'main_html_size': 45680}
+---
+{'image_size': 1019988, 'html_load': 2616, 'css_load': 1426, 'js_size': 631484, 'image_load': 5457, 'page_size': 1778132, 'js_load': 7562, 'url': 'humblebundle.com', 'text_size': 257627, 'main_html_size': 150680}
+{'image_size': 777644, 'html_load': 638, 'css_load': 180, 'js_size': 441007, 'image_load': 2544, 'page_size': 1301762, 'js_load': 3222, 'url': 'humblebundle.com', 'text_size': 70294, 'main_html_size': 130973}
+---
+{'image_size': 1349440, 'html_load': 9863, 'css_load': 1262, 'js_size': 604254, 'image_load': 11524, 'page_size': 2278001, 'js_load': 54579, 'url': 'newegg.com', 'text_size': 442371, 'main_html_size': 199063}
+{'image_size': 1392740, 'html_load': 3564, 'css_load': 3509, 'js_size': 731751, 'image_load': 8378, 'page_size': 2408936, 'js_load': 8097, 'url': 'newegg.com', 'text_size': 426954, 'main_html_size': 199168}
+---
+{'image_size': 2521320, 'html_load': 12397, 'css_load': 2027, 'js_size': 631098, 'image_load': 19906, 'page_size': 3395208, 'js_load': 13789, 'url': 'bodybuilding.com', 'text_size': 420362, 'main_html_size': 202169}
+{'image_size': 2015000, 'html_load': 3522, 'css_load': 293, 'js_size': 743880, 'image_load': 7799, 'page_size': 2988780, 'js_load': 4106, 'url': 'bodybuilding.com', 'text_size': 522127, 'main_html_size': 202169}
+---
+{'image_size': 1254490, 'html_load': 11361, 'css_load': 486, 'js_size': 757457, 'image_load': 10093, 'page_size': 2512381, 'js_load': 9233, 'url': 'ticketmaster.com', 'text_size': 488890, 'main_html_size': 412078}
+{'image_size': 1672344, 'html_load': 9799, 'css_load': 1345, 'js_size': 760567, 'image_load': 14105, 'page_size': 2652934, 'js_load': 14608, 'url': 'ticketmaster.com', 'text_size': 255332, 'main_html_size': 210}
+---
+{'image_size': 201584, 'html_load': 1318, 'css_load': 63, 'js_size': 19152, 'image_load': 4085, 'page_size': 604652, 'js_load': 696, 'url': 'bhphotovideo.com', 'text_size': 395591, 'main_html_size': 186525}
+{'image_size': 889621, 'html_load': 759, 'css_load': 0, 'js_size': 182405, 'image_load': 6854, 'page_size': 1151524, 'js_load': 5296, 'url': 'bhphotovideo.com', 'text_size': 49040, 'main_html_size': 169196}
+---
+{'image_size': 1086211, 'html_load': 2434, 'css_load': 1086, 'js_size': 135694, 'image_load': 5964, 'page_size': 1952780, 'js_load': 2856, 'url': 'zappos.com', 'text_size': 94823, 'main_html_size': 128213}
+{'image_size': 1079581, 'html_load': 9207, 'css_load': 145, 'js_size': 163583, 'image_load': 6220, 'page_size': 1983538, 'js_load': 2036, 'url': 'zappos.com', 'text_size': 105880, 'main_html_size': 128143}
+---
+{'image_size': 802610, 'html_load': 4341, 'css_load': 1062, 'js_size': 756866, 'image_load': 5459, 'page_size': 1991629, 'js_load': 5261, 'url': 'gap.com', 'text_size': 550614, 'main_html_size': 805862}
+{'image_size': 491827, 'html_load': 8293, 'css_load': 478, 'js_size': 830775, 'image_load': 5640, 'page_size': 1804982, 'js_load': 6827, 'url': 'gap.com', 'text_size': 636162, 'main_html_size': 805862}
+---
+{'image_size': 368498, 'html_load': 3366, 'css_load': 1496, 'js_size': 666507, 'image_load': 5367, 'page_size': 1287443, 'js_load': 2978, 'url': 'wayfair.com', 'text_size': 204015, 'main_html_size': 523148}
+{'image_size': 2051457, 'html_load': 8645, 'css_load': 250, 'js_size': 860550, 'image_load': 15498, 'page_size': 6828273, 'js_load': 12109, 'url': 'wayfair.com', 'text_size': 282578, 'main_html_size': 179778}
+---
+{'image_size': 2218140, 'html_load': 7511, 'css_load': 3747, 'js_size': 1388806, 'image_load': 12761, 'page_size': 3747605, 'js_load': 13660, 'url': 'urbanoutfitters.com', 'text_size': 198019, 'main_html_size': 142175}
+{'image_size': 151524, 'html_load': 1013, 'css_load': 311, 'js_size': 60485, 'image_load': 834, 'page_size': 267934, 'js_load': 301, 'url': 'urbanoutfitters.com', 'text_size': 116410, 'main_html_size': 5805}
+---
+{'image_size': 2290717, 'html_load': 1516, 'css_load': 900, 'js_size': 272556, 'image_load': 7385, 'page_size': 2670925, 'js_load': 7552, 'url': 'forever21.com', 'text_size': 147989, 'main_html_size': 236800}
+{'image_size': 733220, 'html_load': 2119, 'css_load': 48, 'js_size': 211562, 'image_load': 5097, 'page_size': 1042743, 'js_load': 1524, 'url': 'forever21.com', 'text_size': 47764, 'main_html_size': 56485}
+---
+{'image_size': 5317071, 'html_load': 3381, 'css_load': 2762, 'js_size': 1168209, 'image_load': 11148, 'page_size': 6741369, 'js_load': 7288, 'url': 'sky.com', 'text_size': 441945, 'main_html_size': 122392}
+{'image_size': 4981269, 'html_load': 1259, 'css_load': 402, 'js_size': 1172020, 'image_load': 5322, 'page_size': 6409186, 'js_load': 5595, 'url': 'sky.com', 'text_size': 441511, 'main_html_size': 122392}
+---
+{'image_size': 918831, 'html_load': 5459, 'css_load': 541, 'js_size': 580384, 'image_load': 5125, 'page_size': 1634348, 'js_load': 6418, 'url': 'overstock.com', 'text_size': 113112, 'main_html_size': 356009}
+{'image_size': 438034, 'html_load': 1938, 'css_load': 273, 'js_size': 546481, 'image_load': 2109, 'page_size': 1096562, 'js_load': 1854, 'url': 'overstock.com', 'text_size': 103295, 'main_html_size': 200275}
+---
+{'image_size': 1364876, 'html_load': 3362, 'css_load': 1688, 'js_size': 80665, 'image_load': 2907, 'page_size': 1854986, 'js_load': 1026, 'url': 'oup.com', 'text_size': 487805, 'main_html_size': 229}
+{'image_size': 1364274, 'html_load': 1564, 'css_load': 1156, 'js_size': 201, 'image_load': 1740, 'page_size': 1757405, 'js_load': 112, 'url': 'oup.com', 'text_size': 392930, 'main_html_size': 229}
+---
+{'image_size': 1765537, 'html_load': 769, 'css_load': 1019, 'js_size': 587198, 'image_load': 6263, 'page_size': 2807461, 'js_load': 5129, 'url': 'redbubble.com', 'text_size': 243537, 'main_html_size': 91687}
+{'image_size': 1586768, 'html_load': 1198, 'css_load': 1818, 'js_size': 581078, 'image_load': 3512, 'page_size': 2625087, 'js_load': 1901, 'url': 'redbubble.com', 'text_size': 238814, 'main_html_size': 96522}
+---
+{'image_size': 11584, 'html_load': 1762, 'css_load': 40, 'js_size': 52484, 'image_load': 2367, 'page_size': 81625, 'js_load': 299, 'url': 'backpage.com', 'text_size': 19569, 'main_html_size': 152146}
+{'image_size': 9014, 'html_load': 87, 'css_load': 43, 'js_size': 50472, 'image_load': 89, 'page_size': 77044, 'js_load': 141, 'url': 'backpage.com', 'text_size': 17558, 'main_html_size': 152146}
+---
+{'image_size': 607924, 'html_load': 1892, 'css_load': 451, 'js_size': 407008, 'image_load': 1965, 'page_size': 1148989, 'js_load': 1233, 'url': 'staples.com', 'text_size': 317444, 'main_html_size': 331294}
+{'image_size': 571804, 'html_load': 9538, 'css_load': 316, 'js_size': 921326, 'image_load': 9243, 'page_size': 1726886, 'js_load': 12135, 'url': 'staples.com', 'text_size': 386911, 'main_html_size': 329417}
+---
+{'image_size': 1114943, 'html_load': 897, 'css_load': 1797, 'js_size': 575270, 'image_load': 6715, 'page_size': 1990833, 'js_load': 6395, 'url': 'iherb.com', 'text_size': 518995, 'main_html_size': 127447}
+{'image_size': 624267, 'html_load': 287, 'css_load': 252, 'js_size': 117430, 'image_load': 1121, 'page_size': 964819, 'js_load': 660, 'url': 'iherb.com', 'text_size': 91507, 'main_html_size': 113335}
+---
+{'image_size': 21346, 'html_load': 1279, 'css_load': 1122, 'js_size': 164056, 'image_load': 324, 'page_size': 298124, 'js_load': 1267, 'url': 'walgreens.com', 'text_size': 115281, 'main_html_size': 85832}
+{'image_size': 161028, 'html_load': 809, 'css_load': 394, 'js_size': 342148, 'image_load': 1368, 'page_size': 654157, 'js_load': 2061, 'url': 'walgreens.com', 'text_size': 135365, 'main_html_size': 75026}
+---
+{'image_size': 1151346, 'html_load': 2116, 'css_load': 2406, 'js_size': 584990, 'image_load': 6418, 'page_size': 2145873, 'js_load': 6017, 'url': 'rei.com', 'text_size': 564394, 'main_html_size': 194129}
+{'image_size': 600353, 'html_load': 6952, 'css_load': 563, 'js_size': 413441, 'image_load': 4283, 'page_size': 1303846, 'js_load': 3426, 'url': 'rei.com', 'text_size': 517615, 'main_html_size': 194129}
+---
+{'image_size': 2910158, 'html_load': 1995, 'css_load': 291, 'js_size': 151636, 'image_load': 5467, 'page_size': 3272858, 'js_load': 631, 'url': '6pm.com', 'text_size': 68616, 'main_html_size': 78597}
+{'image_size': 2911022, 'html_load': 4989, 'css_load': 740, 'js_size': 154965, 'image_load': 5241, 'page_size': 3284948, 'js_load': 2175, 'url': '6pm.com', 'text_size': 78059, 'main_html_size': 78597}
+---
+{'image_size': 476151, 'html_load': 1809, 'css_load': 1600, 'js_size': 640044, 'image_load': 3024, 'page_size': 1361623, 'js_load': 5340, 'url': 'sears.com', 'text_size': 354153, 'main_html_size': 102673}
+{'image_size': 722461, 'html_load': 19955, 'css_load': 881, 'js_size': 1229957, 'image_load': 17225, 'page_size': 2232881, 'js_load': 16745, 'url': 'sears.com', 'text_size': 498115, 'main_html_size': 1098}
+---
+{'image_size': 1001589, 'html_load': 4570, 'css_load': 94, 'js_size': 1146716, 'image_load': 10070, 'page_size': 2747629, 'js_load': 16219, 'url': 'jcrew.com', 'text_size': 270476, 'main_html_size': 104988}
+{'image_size': 999720, 'html_load': 958, 'css_load': 126, 'js_size': 1147971, 'image_load': 3488, 'page_size': 2747039, 'js_load': 3391, 'url': 'jcrew.com', 'text_size': 268563, 'main_html_size': 104986}
+---

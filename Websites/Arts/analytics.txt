@@ -1,0 +1,108 @@
+{'image_size': 2232924, 'html_load': 16106, 'css_load': 2826, 'js_size': 828278, 'image_load': 16897, 'page_size': 3257911, 'js_load': 13628, 'url': 'imdb.com', 'text_size': 202859, 'main_html_size': 169937}
+{'image_size': 890398, 'html_load': 4497, 'css_load': 220, 'js_size': 342323, 'image_load': 4068, 'page_size': 1359280, 'js_load': 1965, 'url': 'imdb.com', 'text_size': 82161, 'main_html_size': 202}
+---
+{'image_size': 157751, 'html_load': 2952, 'css_load': 1496, 'js_size': 229733, 'image_load': 3090, 'page_size': 483323, 'js_load': 5414, 'url': 'bbc.co.uk', 'text_size': 72595, 'main_html_size': 228076}
+{'image_size': 167936, 'html_load': 566, 'css_load': 768, 'js_size': 374554, 'image_load': 1599, 'page_size': 666506, 'js_load': 2215, 'url': 'bbc.co.uk', 'text_size': 94248, 'main_html_size': 228119}
+---
+{'image_size': 1708278, 'html_load': 9553, 'css_load': 642, 'js_size': 2185657, 'image_load': 14414, 'page_size': 4966855, 'js_load': 15888, 'url': 'cnn.com', 'text_size': 1239201, 'main_html_size': 135329}
+{'image_size': 1642809, 'html_load': 2376, 'css_load': 443, 'js_size': 1372401, 'image_load': 6161, 'page_size': 3628833, 'js_load': 7975, 'url': 'cnn.com', 'text_size': 578990, 'main_html_size': 135329}
+---
+{'image_size': 822797, 'html_load': 2942, 'css_load': 1130, 'js_size': 1300737, 'image_load': 6984, 'page_size': 3690037, 'js_load': 11699, 'url': 'espn.com', 'text_size': 851528, 'main_html_size': 235592}
+{'image_size': 526842, 'html_load': 2112, 'css_load': 280, 'js_size': 1015267, 'image_load': 1482, 'page_size': 2074246, 'js_load': 4233, 'url': 'espn.com', 'text_size': 605554, 'main_html_size': 231302}
+---
+{'image_size': 466066, 'html_load': 7489, 'css_load': 760, 'js_size': 680442, 'image_load': 10587, 'page_size': 1428199, 'js_load': 9844, 'url': 'spotify.com', 'text_size': 155636, 'main_html_size': 352}
+{'image_size': 409297, 'html_load': 3150, 'css_load': 213, 'js_size': 677290, 'image_load': 1456, 'page_size': 1368129, 'js_load': 2289, 'url': 'spotify.com', 'text_size': 153890, 'main_html_size': 352}
+---
+{'image_size': 3115298, 'html_load': 2759, 'css_load': 488, 'js_size': 701273, 'image_load': 12466, 'page_size': 4185815, 'js_load': 4191, 'url': 'deviantart.com', 'text_size': 256354, 'main_html_size': 265896}
+{'image_size': 2672960, 'html_load': 1163, 'css_load': 479, 'js_size': 599532, 'image_load': 4360, 'page_size': 3765010, 'js_load': 1492, 'url': 'deviantart.com', 'text_size': 260266, 'main_html_size': 219926}
+---
+{'image_size': 260334, 'html_load': 24545, 'css_load': 1673, 'js_size': 500636, 'image_load': 37246, 'page_size': 1326569, 'js_load': 25143, 'url': 'livejournal.com', 'text_size': 500744, 'main_html_size': 166958}
+{'image_size': 338561, 'html_load': 16842, 'css_load': 20405, 'js_size': 463027, 'image_load': 21302, 'page_size': 1232375, 'js_load': 25264, 'url': 'livejournal.com', 'text_size': 485269, 'main_html_size': 167030}
+---
+{'image_size': 935360, 'html_load': 20645, 'css_load': 1938, 'js_size': 1228581, 'image_load': 19501, 'page_size': 2381486, 'js_load': 20237, 'url': 'foxnews.com', 'text_size': 453283, 'main_html_size': 75822}
+{'image_size': 177030, 'html_load': 1952, 'css_load': 522, 'js_size': 661755, 'image_load': 2513, 'page_size': 1013649, 'js_load': 4076, 'url': 'foxnews.com', 'text_size': 381216, 'main_html_size': 88730}
+---
+{'image_size': 630537, 'html_load': 3399, 'css_load': 1811, 'js_size': 510793, 'image_load': 2564, 'page_size': 1463115, 'js_load': 4533, 'url': 'scribd.com', 'text_size': 140233, 'main_html_size': 46830}
+{'image_size': 364417, 'html_load': 6127, 'css_load': 438, 'js_size': 501137, 'image_load': 6822, 'page_size': 1194354, 'js_load': 6610, 'url': 'scribd.com', 'text_size': 147246, 'main_html_size': 46816}
+---
+{'image_size': 1245970, 'html_load': 5419, 'css_load': 1970, 'js_size': 555815, 'image_load': 4813, 'page_size': 8008504, 'js_load': 15501, 'url': 'xfinity.com', 'text_size': 162906, 'main_html_size': 153867}
+{'image_size': 123349, 'html_load': 3371, 'css_load': 607, 'js_size': 676191, 'image_load': 5171, 'page_size': 1118675, 'js_load': 3972, 'url': 'xfinity.com', 'text_size': 203693, 'main_html_size': 114171}
+---
+{'image_size': 486252, 'html_load': 2290, 'css_load': 565, 'js_size': 704086, 'image_load': 1861, 'page_size': 1336931, 'js_load': 3081, 'url': 'pandora.com', 'text_size': 249894, 'main_html_size': 262957}
+{'image_size': 160722, 'html_load': 1126, 'css_load': 978, 'js_size': 29998, 'image_load': 498, 'page_size': 251144, 'js_load': 3436, 'url': 'pandora.com', 'text_size': 79786, 'main_html_size': 83148}
+---
+{'image_size': 1518868, 'html_load': 17265, 'css_load': 857, 'js_size': 1679315, 'image_load': 22642, 'page_size': 4132727, 'js_load': 20294, 'url': 'hulu.com', 'text_size': 962190, 'main_html_size': 111018}
+{'image_size': 1459976, 'html_load': 7776, 'css_load': 870, 'js_size': 1525315, 'image_load': 13064, 'page_size': 3352429, 'js_load': 6950, 'url': 'hulu.com', 'text_size': 752697, 'main_html_size': 111018}
+---
+{'image_size': 273230, 'html_load': 15068, 'css_load': 6438, 'js_size': 829987, 'image_load': 22199, 'page_size': 1428570, 'js_load': 19001, 'url': 'urbandictionary.com', 'text_size': 576988, 'main_html_size': 100405}
+{'image_size': 233291, 'html_load': 3502, 'css_load': 306, 'js_size': 557709, 'image_load': 4522, 'page_size': 863612, 'js_load': 2180, 'url': 'urbandictionary.com', 'text_size': 314084, 'main_html_size': 100405}
+---
+{'image_size': 535439, 'html_load': 4096, 'css_load': 3314, 'js_size': 1260305, 'image_load': 11977, 'page_size': 2517359, 'js_load': 13706, 'url': 'vice.com', 'text_size': 1122981, 'main_html_size': 872984}
+{'image_size': 782528, 'html_load': 4073, 'css_load': 1231, 'js_size': 1265605, 'image_load': 5621, 'page_size': 2445398, 'js_load': 6368, 'url': 'vice.com', 'text_size': 988903, 'main_html_size': 872984}
+---
+{'image_size': 158040, 'html_load': 3395, 'css_load': 2889, 'js_size': 328816, 'image_load': 5095, 'page_size': 739415, 'js_load': 7946, 'url': 'azlyrics.com', 'text_size': 340346, 'main_html_size': 12975}
+{'image_size': 157026, 'html_load': 3005, 'css_load': 724, 'js_size': 356065, 'image_load': 4040, 'page_size': 765748, 'js_load': 3811, 'url': 'azlyrics.com', 'text_size': 345981, 'main_html_size': 12975}
+---
+{'image_size': 678916, 'html_load': 40985, 'css_load': 3780, 'js_size': 1812889, 'image_load': 42493, 'page_size': 2746774, 'js_load': 42085, 'url': 'rottentomatoes.com', 'text_size': 437409, 'main_html_size': 141687}
+{'image_size': 630481, 'html_load': 18838, 'css_load': 1813, 'js_size': 1120630, 'image_load': 25395, 'page_size': 1926969, 'js_load': 21863, 'url': 'rottentomatoes.com', 'text_size': 301043, 'main_html_size': 141687}
+---
+{'image_size': 856692, 'html_load': 14563, 'css_load': 3018, 'js_size': 216184, 'image_load': 15935, 'page_size': 1684299, 'js_load': 14852, 'url': 'discogs.com', 'text_size': 598719, 'main_html_size': 467059}
+{'image_size': 443112, 'html_load': 1886, 'css_load': 161, 'js_size': 152900, 'image_load': 4625, 'page_size': 1076944, 'js_load': 441, 'url': 'discogs.com', 'text_size': 458535, 'main_html_size': 402712}
+---
+{'image_size': 2191138, 'html_load': 45824, 'css_load': 19207, 'js_size': 1438757, 'image_load': 55608, 'page_size': 4579880, 'js_load': 44219, 'url': 'money.cnn.com', 'text_size': 1112781, 'main_html_size': 83465}
+{'image_size': 2695909, 'html_load': 17260, 'css_load': 358, 'js_size': 820252, 'image_load': 20739, 'page_size': 4413284, 'js_load': 20041, 'url': 'money.cnn.com', 'text_size': 531825, 'main_html_size': 13464}
+---
+{'image_size': 143622, 'html_load': 30035, 'css_load': 1553, 'js_size': 1532934, 'image_load': 15734, 'page_size': 2185503, 'js_load': 34102, 'url': 'cnbc.com', 'text_size': 968267, 'main_html_size': 340691}
+{'image_size': 137078, 'html_load': 5710, 'css_load': 3693, 'js_size': 1378718, 'image_load': 9753, 'page_size': 1998207, 'js_load': 15542, 'url': 'cnbc.com', 'text_size': 808460, 'main_html_size': 198488}
+---
+{'image_size': 5100363, 'html_load': 23845, 'css_load': 12234, 'js_size': 721591, 'image_load': 22108, 'page_size': 6091086, 'js_load': 25496, 'url': 'nbcnews.com', 'text_size': 239181, 'main_html_size': 500974}
+{'image_size': 987884, 'html_load': 3926, 'css_load': 826, 'js_size': 722257, 'image_load': 4165, 'page_size': 1984632, 'js_load': 3298, 'url': 'nbcnews.com', 'text_size': 245890, 'main_html_size': 500975}
+---
+{'image_size': 0, 'html_load': 1113, 'css_load': 1095, 'js_size': 135063, 'image_load': 0, 'page_size': 239253, 'js_load': 3149, 'url': 'grammarly.com', 'text_size': 179247, 'main_html_size': 30459}
+{'image_size': 1245573, 'html_load': 214, 'css_load': 393, 'js_size': 283163, 'image_load': 1370, 'page_size': 1771793, 'js_load': 3902, 'url': 'grammarly.com', 'text_size': 294342, 'main_html_size': 18804}
+---
+{'image_size': 794044, 'html_load': 9095, 'css_load': 3256, 'js_size': 1123699, 'image_load': 13846, 'page_size': 2342065, 'js_load': 17844, 'url': 'cbc.ca', 'text_size': 690082, 'main_html_size': 102625}
+{'image_size': 3258, 'html_load': 229, 'css_load': 493, 'js_size': 47413, 'image_load': 3185, 'page_size': 61110, 'js_load': 778, 'url': 'cbc.ca', 'text_size': 36536, 'main_html_size': 22393}
+---
+{'image_size': 135260, 'html_load': 5865, 'css_load': 1091, 'js_size': 616547, 'image_load': 7748, 'page_size': 1072215, 'js_load': 11522, 'url': 'theatlantic.com', 'text_size': 425015, 'main_html_size': 244351}
+{'image_size': 141017, 'html_load': 42704, 'css_load': 1697, 'js_size': 648157, 'image_load': 46453, 'page_size': 1250825, 'js_load': 48134, 'url': 'theatlantic.com', 'text_size': 732476, 'main_html_size': 244351}
+---
+{'image_size': 457743, 'html_load': 11295, 'css_load': 862, 'js_size': 823256, 'image_load': 11228, 'page_size': 1476118, 'js_load': 9516, 'url': 'cbsnews.com', 'text_size': 331442, 'main_html_size': 300260}
+{'image_size': 907710, 'html_load': 8284, 'css_load': 141, 'js_size': 1345929, 'image_load': 7222, 'page_size': 4462386, 'js_load': 11089, 'url': 'cbsnews.com', 'text_size': 792731, 'main_html_size': 95619}
+---
+{'image_size': 4425253, 'html_load': 19383, 'css_load': 1641, 'js_size': 1742848, 'image_load': 23741, 'page_size': 11022526, 'js_load': 17111, 'url': 'abcnews.go.com', 'text_size': 991987, 'main_html_size': 230}
+{'image_size': 2134810, 'html_load': 5372, 'css_load': 1623, 'js_size': 1471441, 'image_load': 6769, 'page_size': 4818161, 'js_load': 7637, 'url': 'abcnews.go.com', 'text_size': 715607, 'main_html_size': 230}
+---
+{'image_size': 485250, 'html_load': 9526, 'css_load': 3830, 'js_size': 1993127, 'image_load': 16553, 'page_size': 7309680, 'js_load': 15344, 'url': 'wired.com', 'text_size': 1554602, 'main_html_size': 285951}
+{'image_size': 388984, 'html_load': 3315, 'css_load': 602, 'js_size': 1745288, 'image_load': 10101, 'page_size': 5106045, 'js_load': 10718, 'url': 'wired.com', 'text_size': 1260476, 'main_html_size': 284986}
+---
+{'image_size': 51060, 'html_load': 2019, 'css_load': 638, 'js_size': 1265318, 'image_load': 1934, 'page_size': 1510757, 'js_load': 4806, 'url': 'deezer.com', 'text_size': 147381, 'main_html_size': 30627}
+{'image_size': 74919, 'html_load': 995, 'css_load': 116, 'js_size': 1201508, 'image_load': 1159, 'page_size': 1433671, 'js_load': 1768, 'url': 'deezer.com', 'text_size': 150496, 'main_html_size': 30313}
+---
+{'image_size': 43, 'html_load': 718, 'css_load': 0, 'js_size': 0, 'image_load': 275, 'page_size': 42441, 'js_load': 0, 'url': 'tmz.com', 'text_size': 42398, 'main_html_size': 197452}
+{'image_size': 5945969, 'html_load': 28974, 'css_load': 1143, 'js_size': 1697539, 'image_load': 30647, 'page_size': 9056611, 'js_load': 23697, 'url': 'tmz.com', 'text_size': 1283409, 'main_html_size': 201}
+---
+{'image_size': 1595324, 'html_load': 2643, 'css_load': 2129, 'js_size': 418832, 'image_load': 4619, 'page_size': 2268080, 'js_load': 5637, 'url': 'last.fm', 'text_size': 264525, 'main_html_size': 113645}
+{'image_size': 1557639, 'html_load': 625, 'css_load': 1986, 'js_size': 402813, 'image_load': 3396, 'page_size': 2147791, 'js_load': 2990, 'url': 'last.fm', 'text_size': 225897, 'main_html_size': 56047}
+---
+{'image_size': 1566207, 'html_load': 8684, 'css_load': 1275, 'js_size': 925158, 'image_load': 11850, 'page_size': 2833996, 'js_load': 11858, 'url': 'metacritic.com', 'text_size': 803232, 'main_html_size': 162499}
+{'image_size': 362065, 'html_load': 13544, 'css_load': 377, 'js_size': 1189825, 'image_load': 18900, 'page_size': 1699384, 'js_load': 17304, 'url': 'metacritic.com', 'text_size': 671380, 'main_html_size': 61079}
+---
+{'image_size': 1058689, 'html_load': 3397, 'css_load': 827, 'js_size': 634524, 'image_load': 9729, 'page_size': 2660098, 'js_load': 6407, 'url': 'pitchfork.com', 'text_size': 498859, 'main_html_size': 186901}
+{'image_size': 443126, 'html_load': 537, 'css_load': 111, 'js_size': 488015, 'image_load': 1525, 'page_size': 1582642, 'js_load': 1664, 'url': 'pitchfork.com', 'text_size': 237060, 'main_html_size': 178845}
+---
+{'image_size': 1702957, 'html_load': 11792, 'css_load': 1736, 'js_size': 1675335, 'image_load': 11381, 'page_size': 5414930, 'js_load': 9504, 'url': 'avclub.com', 'text_size': 618094, 'main_html_size': 548134}
+{'image_size': 1365461, 'html_load': 3675, 'css_load': 343, 'js_size': 1440102, 'image_load': 5372, 'page_size': 4012485, 'js_load': 4942, 'url': 'avclub.com', 'text_size': 427133, 'main_html_size': 548134}
+---
+{'image_size': 57571, 'html_load': 1028, 'css_load': 15, 'js_size': 66373, 'image_load': 2933, 'page_size': 468518, 'js_load': 450, 'url': 'xkcd.com', 'text_size': 38713, 'main_html_size': 6277}
+{'image_size': 57116, 'html_load': 72, 'css_load': 13, 'js_size': 34655, 'image_load': 277, 'page_size': 95570, 'js_load': 117, 'url': 'xkcd.com', 'text_size': 3799, 'main_html_size': 6277}
+---
+{'image_size': 666590, 'html_load': 6834, 'css_load': 4400, 'js_size': 1055978, 'image_load': 8840, 'page_size': 4546584, 'js_load': 8803, 'url': 'newyorker.com', 'text_size': 514753, 'main_html_size': 146783}
+{'image_size': 602146, 'html_load': 3016, 'css_load': 1810, 'js_size': 1027897, 'image_load': 9245, 'page_size': 4909059, 'js_load': 9175, 'url': 'newyorker.com', 'text_size': 482338, 'main_html_size': 146783}
+---
+{'image_size': 307621, 'html_load': 2959, 'css_load': 343, 'js_size': 209067, 'image_load': 4774, 'page_size': 636804, 'js_load': 1622, 'url': 'pbs.org', 'text_size': 76007, 'main_html_size': 171743}
+{'image_size': 309142, 'html_load': 541, 'css_load': 192, 'js_size': 204384, 'image_load': 1055, 'page_size': 591945, 'js_load': 517, 'url': 'pbs.org', 'text_size': 71139, 'main_html_size': 171743}
+---
+{'image_size': 5378178, 'html_load': 7355, 'css_load': 1430, 'js_size': 1096267, 'image_load': 8636, 'page_size': 6730099, 'js_load': 8815, 'url': 'sky.com', 'text_size': 372206, 'main_html_size': 122392}
+{'image_size': 5394214, 'html_load': 1921, 'css_load': 412, 'js_size': 1099743, 'image_load': 5302, 'page_size': 6749855, 'js_load': 4929, 'url': 'sky.com', 'text_size': 372149, 'main_html_size': 122392}
+---
